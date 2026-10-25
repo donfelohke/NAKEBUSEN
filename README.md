@@ -1,16 +1,24 @@
 # NAKEBUSEN — Locs, Beauty Craft and Livelihood
 
-NAKEBUSEN is the ecosystem's beauty-craft and customer-relationship domain. The name is supplied by the project owner as a Turkana word meaning **beautiful**. Its public identity centres loc care, craft, dignity, and livelihood.
+**Enterprise that transacts.** Turkana sense (owner-supplied): **beautiful**.
 
-## Brand direction
+**Public face:** Feloh Warena · Don Feloh · [@donfelohke](https://x.com/donfelohke)  
+**Brand:** GRACE · The Crown · Your Crown. Your Craft. · GRACE·GRIT·GLORY
 
-- **GRACE — The Crown**
-- **NAKEBUSEN**
-- **Your Crown. Your Craft.**
-- **WARENA powered**
-- Public face/handle: **@donfelohke**
+## Contact (approved public channels)
 
-The current public positioning includes “NAKEBUSEN Locs / WARENA powered / @donfelohke” and “Grace Grit Glory / Your Crown. Our Craft.” Confirm public wording and current service details before each release.
+| Channel | Link |
+|---------|------|
+| **WhatsApp / phone** | [0719 635 415](https://wa.me/254719635415) |
+| **Website** | [donfelohke.github.io](https://donfelohke.github.io) |
+| **Facebook business** | [Nakebusen 023 Beauty Lounge](https://www.facebook.com/p/Nakebusen-023-Beauty-Lounge-61558789500287/) |
+| **TikTok** | [@donfelohke](https://www.tiktok.com/@donfelohke) |
+| **Instagram** | [@donfelohke](https://www.instagram.com/donfelohke/) |
+| **X** | [@donfelohke](https://x.com/donfelohke) |
+
+**Locations (public):** Kanamkemer / Lodwar, Turkana · practice also referenced in Eldoret, Uasin Gishu  
+**Modes:** Salon · Home · Call · M-Pesa  
+**Enquiry is not a booking.** Quote and scope before work.
 
 ## Operating boundary
 
@@ -22,7 +30,7 @@ This repository is for approved public information, brand assets, operating proc
 
 Service names, prices, location, availability, contact details, and timing can change. Publish only information explicitly approved for current use. Do not invent testimonials, qualifications, customer identities, certifications, service guarantees, or availability.
 
-A public website may route enquiries to the approved contact channel, but an enquiry is not a confirmed booking and no payment has occurred merely because a page or form exists.
+Starting prices may appear on the website and Facebook (e.g. loc retwists, Sisterlocs, nails); final cost depends on locs, materials, and work agreed in advance.
 
 ## Privacy
 
@@ -35,6 +43,7 @@ Do not commit customer names, phone numbers, appointment histories, photos, priv
 - [GENJE](https://github.com/donfelohke/Genje) — creative technology and embodied practice.
 - [IKAI](https://github.com/donfelohke/Ikai) — reflexive-compute research.
 - [Public site](https://github.com/donfelohke/donfelohke.github.io) — approved public portfolio.
+- [Gallery](https://github.com/donfelohke/Gallery) — curated assets (approval first).
 
 ## Repository map
 
@@ -46,4 +55,4 @@ Do not commit customer names, phone numbers, appointment histories, photos, priv
 
 ## Current status
 
-**Status: INITIAL DOCUMENTATION BASELINE.** This repository does not claim that a booking/payment system or customer-record system has been implemented.
+**Status: INITIAL DOCUMENTATION BASELINE.** This repository does not claim that a booking/payment system or customer-record system has been implemented. Public enquiry paths (WhatsApp, Facebook, site) exist; they are not automated booking.
