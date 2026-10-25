@@ -16,9 +16,10 @@
 | **Instagram** | [@donfelohke](https://www.instagram.com/donfelohke/) |
 | **X** | [@donfelohke](https://x.com/donfelohke) |
 
-**Locations (public):** Kanamkemer / Lodwar, Turkana · practice also referenced in Eldoret, Uasin Gishu  
-**Modes:** Salon · Home · Call · M-Pesa  
-**Enquiry is not a booking.** Quote and scope before work.
+**Current public campaign/location:** Eldoret Town / Karibu Mdosi · Uasin Gishu, Kenya.  
+**Historical roots:** Kanamkemer / Lodwar, Turkana. Do not imply current service availability in Lodwar or other towns unless reconfirmed.  
+**Contact:** WhatsApp / phone 0719 635 415. Ask about availability and service suitability before travelling or arranging a visit.  
+**Enquiry is not a booking.** Confirm scope, timing and final quote before work.
 
 ## Operating boundary
 
@@ -31,6 +32,16 @@ This repository is for approved public information, brand assets, operating proc
 Service names, prices, location, availability, contact details, and timing can change. Publish only information explicitly approved for current use. Do not invent testimonials, qualifications, customer identities, certifications, service guarantees, or availability.
 
 Starting prices may appear on the website and Facebook (e.g. loc retwists, Sisterlocs, nails); final cost depends on locs, materials, and work agreed in advance.
+
+### Current featured loc-care catalogue
+
+The current public website campaign features these starting prices:
+
+- Retouch & Styling — from KES 700.
+- Sisterlocs Retie — from KES 1,500.
+- Artificial Locs Installation — from KES 3,500.
+
+Final pricing depends on the client's locs, requested work and materials. **Braiding is not offered.** Do not republish older nail or service prices as current without reconfirmation. Keep historical service research clearly distinguished from the approved current offer.
 
 ## Privacy
 
