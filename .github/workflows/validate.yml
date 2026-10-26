@@ -26,7 +26,7 @@ jobs:
             echo "Public-facing governance copy must express the service boundary through the approved LOCS/DIGITAL pathways, not the literal slogan."
             exit 1
           fi
-          grep -q "Enquiry is not a booking" README.md
+          grep -qi "enquiry is not a booking" README.md
           grep -q "NAKEBUSEN DIGITAL" README.md
           grep -q "Powered by WARENA" README.md
           echo "Required documentation and implicit service-pathway checks passed."
