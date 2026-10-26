@@ -10,6 +10,7 @@ This index routes knowledge to the right source. It does not certify that every 
 - [Service catalogue](service-catalogue.md) — candidate services, pricing status, public terms, and publication checks.
 - [Locs operating knowledge](locs-operating-knowledge.md) — consultation, preparation, service delivery, aftercare, quality and safety checks.
 - [Privacy and operations](privacy-and-operations.md) — enquiry workflow and public/private information boundaries.
+- [UI/UX service-journey SOP](ui-ux-service-journey-sop.md) — customer paths, copy rules, mobile/accessibility checks, research and release gates.
 - [Web copy research](webcopy-research.md) — market context and conversion-copy guidance.
 
 ## DIGITAL — practical technology services
