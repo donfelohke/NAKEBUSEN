@@ -2,7 +2,7 @@
 
 **Status:** RESEARCH / DOCUMENTATION · 25 October 2026  
 **Scope:** Public website and FB/WhatsApp service copy for locs & nails in Kenya  
-**Rule:** ONLY NAKEBUSEN TRANSACTS. Enquiry ≠ booking.
+**Copy rule:** Route offers, enquiries and service confirmations through the relevant NAKEBUSEN LOCS or DIGITAL pathway. An enquiry is not a booking.
 
 This note summarises market evidence and copy recommendations. It does not change live prices until the owner confirms.
 
@@ -103,7 +103,7 @@ Do not invent opening hours until confirmed.
 - **Grace:** dignity, crown, craft, care — not “glam transformation” hype  
 - **Grit:** practical systems language; no fake AI product claims  
 - **Glory:** creative practice; no unverified awards  
-- **ONLY NAKEBUSEN TRANSACTS**  
+- Customer-facing offers and confirmations use the relevant NAKEBUSEN service pathway.  
 - Prefer plain English; short Sheng/Swahili only where natural on socials  
 
 Avoid: testimonial carousels without real consent; “best in Kenya”; clinical claims; IKAI as product.
