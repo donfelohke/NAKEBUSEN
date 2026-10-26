@@ -19,8 +19,14 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          for file in README.md GOVERNANCE.md CONTRIBUTING.md SECURITY.md docs/service-catalogue.md docs/privacy-and-operations.md; do
+          for file in README.md GOVERNANCE.md CONTRIBUTING.md SECURITY.md docs/service-catalogue.md docs/privacy-and-operations.md docs/knowledge-base-index.md docs/locs-operating-knowledge.md docs/digital-service-playbook.md; do
             test -s "$file" || { echo "Missing or empty required file: $file"; exit 1; }
           done
-          grep -q "ONLY NAKEBUSEN TRANSACTS" README.md || { echo "README missing transaction boundary"; exit 1; }
-          echo "Required documentation baseline is present."
+          if grep -q "ONLY NAKEBUSEN TRANSACTS" README.md GOVERNANCE.md; then
+            echo "Public-facing governance copy must express the service boundary through the approved LOCS/DIGITAL pathways, not the literal slogan."
+            exit 1
+          fi
+          grep -q "Enquiry is not a booking" README.md
+          grep -q "NAKEBUSEN DIGITAL" README.md
+          grep -q "Powered by WARENA" README.md
+          echo "Required documentation and implicit service-pathway checks passed."
