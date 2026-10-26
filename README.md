@@ -53,3 +53,18 @@ Do not commit customer names, phone numbers beyond the published business contac
 ## Current status
 
 **Status: INITIAL KNOWLEDGE-BASE DOCUMENTATION.** The new LOCS and DIGITAL playbooks are proposals pending practitioner review. This repository does not itself implement an automated booking, payment or customer-record system. Repository content must not be read as evidence that a service is available today or that a technical job has been completed.
+
+---
+
+## Canonical architecture update — 2026-10-26
+
+**NAKEBUSEN is the parent enterprise and the only customer-facing commercial/transaction interface.** Its two principal divisions are:
+
+- **NAKEBUSEN LOCS** — loc craft, maintenance, retouching, crochet retwist/styling, artificial loc installation, and other beauty services only where actually offered.
+- **NAKEBUSEN DIGITAL** — digital services and technical operations; its technical identity is **WARENA**, with **WARENA Systems** describing systems engineering and infrastructure.
+
+**GENJE ZA WARENA — THE FIRE OF THE FORMIDABLE** is the current NIA naming: cultural identity and motivating idea, not another commercial division. **IKAI Mirror** is a related reflective-computing research project, not a released beauty product. Do not offer shaving or braiding.
+
+Preserve current Eldoret campaign prices: **Retouch & Styling KES 700** and **Artificial Locs Installation KES 3,500**. Do not replace KES 700 with the historical KES 800 price. Other prices and availability require current owner confirmation. An enquiry is not a booking; confirm scope, quote, availability, location and timing directly.
+
+See the [canonical architecture and decision register](https://github.com/donfelohke/feloh-corpus/blob/main/docs/canonical-architecture-2026-10-26.md).
