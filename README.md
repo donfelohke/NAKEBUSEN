@@ -68,8 +68,6 @@ Do not invent testimonials, certifications or guarantees. Do not commit customer
 | [Ikai](https://github.com/donfelohke/Ikai) | Research only |
 | [Gallery](https://github.com/donfelohke/Gallery) | Curated assets |
 
-```text
-FELOH generates. NAKEBUSEN grounds. IKAI reflects. WARENA enables. GENJE embodies.
-```
+Cross-domain relationships are documented in the [canonical architecture](https://github.com/donfelohke/feloh-corpus/blob/main/docs/canonical-architecture-2026-10-26.md).
 
 **Status:** Documentation and public offer baseline. Repository content is not proof that every listed service is available today.
