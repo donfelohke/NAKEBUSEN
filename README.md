@@ -1,83 +1,98 @@
-# NAKEBUSEN — Locs · Digital
+<div align="center">
 
-**Parent enterprise · only commercial interface**  
-**Public site:** [donfelohke.github.io](https://donfelohke.github.io)  
-**Author:** Feloh Warena · Don Feloh · [@donfelohke](https://github.com/donfelohke) · #HisGenjeness  
-**Owner-supplied name meaning:** “beautiful” (Turkana).
+# NAKEBUSEN
 
-> Your beauty. Your way. · Powered by WARENA (Digital)
+### Locs · Digital · Powered by WARENA
 
----
+**Your Beauty ° Your Way.**
 
-## Contact (approved public channels)
+*Natural loc care and practical digital systems — grounded in craft, built with care.*
 
-| Channel | Link |
-|---|---|
-| **WhatsApp / phone** | [+254 719 635 415](https://wa.me/254719635415) |
-| **Website** | [donfelohke.github.io](https://donfelohke.github.io) |
-| **Email** | mela9ine@proton.me |
-| **Facebook business** | [Nakebusen 023 Beauty Lounge](https://www.facebook.com/p/Nakebusen-023-Beauty-Lounge-61558789500287/) |
-| **TikTok / Instagram / X** | [@donfelohke](https://x.com/donfelohke) |
+**Eldoret Town · Karibu Mdosi · Kenya**
 
-**Locations referenced publicly:** Eldoret Town / Karibu Mdosi · Uasin Gishu (current campaign messaging) · Kanamkemer / Lodwar, Turkana (roots / salon references). Confirm location for each booking.
+[Explore the website](https://donfelohke.github.io) · [WhatsApp](https://wa.me/254719635415) · [Digital services](#-nakebusen-digital)
 
-**An enquiry is not a confirmed booking.** Confirm scope, quote, availability and timing directly before work.
+</div>
 
 ---
 
-## Two service paths
+> **NAKEBUSEN** is the public-facing home for loc care and digital services.  
+> **WARENA** powers the Digital practice. The brand stays human, useful and accessible.
 
-### NAKEBUSEN LOCS — GRACE
+## ✦ At a glance
 
-Natural loc care, retouch, styling, Sisterlocs retie, artificial loc installation.
+| **LOCs** | **DIGITAL** | **CONNECT** |
+|:--|:--|:--|
+| Natural loc care, retouch and styling | GNU/Linux, networking and practical systems support | Direct enquiries and clear expectations |
+| **GRACE · CRAFT** | **GRIT · SYSTEMS** | **GLORY · HUMAN AUTHORSHIP** |
+
+## ♛ NAKEBUSEN Locs
+
+Loc care comes first. Services are discussed directly so the work, condition of the locs, materials and timing can be agreed before confirmation.
 
 | Service | Starting price |
-|---------|----------------|
-| Retouch & Styling | From **KES 700** |
-| Sisterlocs Retie | From **KES 1,500** |
-| Artificial Locs Installation | From **KES 3,500** |
+|:--|--:|
+| Retouch & Styling | **KES 700** |
+| Sisterlocs Retie | **KES 1,500** |
+| Artificial Locs Install | **KES 3,500** |
 
-Final cost depends on service, loc condition and materials. **No shaving or braiding** on the public catalogue.
+Prices are starting points; the final quote depends on the service, loc condition and materials. **Enquiry is not a confirmed booking.** Availability and timing must be confirmed directly. Braiding is not offered in the current public catalogue.
 
-### NAKEBUSEN DIGITAL — GRIT (powered by WARENA)
+**Your style. Our craft.**
 
-GNU/Linux, workstations, networking, small-office infrastructure, local-first / offline-capable environments. Scoped per engagement — feasibility, deliverables, price and support agreed before work begins.
+## ⌘ NAKEBUSEN Digital
+
+*Powered by WARENA · Freedom Is a System.*
+
+Practical technology services, scoped to the actual need:
+
+- GNU/Linux and workstation support
+- Small-office networking and infrastructure
+- Local-first and offline-capable systems
+- Systems engineering and technical guidance
+
+Each engagement should establish feasibility, deliverables, price and support expectations before work begins. Listing a service here is not a guarantee of immediate availability.
 
 **IKAI** is reflective-compute research, not a NAKEBUSEN product for sale.
 
----
+## ↗ Start here
 
-## Start here
-
-- [Service catalogue](docs/service-catalogue.md) — publication status of services and prices  
-- [DIGITAL service playbook](docs/digital-service-playbook.md) — discovery through handover  
-- [Privacy and operations](docs/privacy-and-operations.md)  
+- [Service catalogue](docs/service-catalogue.md) — public offer and price baseline
+- [Digital service playbook](docs/digital-service-playbook.md) — discovery through handover
+- [Privacy and operations](docs/privacy-and-operations.md) — careful handling of information
 - [Governance](GOVERNANCE.md) · [Contributing](CONTRIBUTING.md) · [Security](SECURITY.md)
 
-Do not invent testimonials, certifications or guarantees. Do not commit customer personal records to Git.
+## ◈ The wider ecosystem
+
+| Project | Relationship |
+|:--|:--|
+| [feloh-corpus](https://github.com/donfelohke/feloh-corpus) | Canon and evidence standards |
+| [WARENA](https://github.com/donfelohke/WARENA) | Systems identity powering Digital |
+| [Genje](https://github.com/donfelohke/Genje) | Creative practice — not checkout |
+| [Ikai](https://github.com/donfelohke/Ikai) | Reflective-compute research |
+| [Gallery](https://github.com/donfelohke/Gallery) | Curated assets |
+
+Cross-project boundaries and relationships are described in the [canonical architecture](https://github.com/donfelohke/feloh-corpus/blob/main/docs/canonical-architecture-2026-10-26.md).
+
+## ☎ Connect
+
+- **WhatsApp / phone:** [+254 719 635 415](https://wa.me/254719635415)
+- **Website:** [donfelohke.github.io](https://donfelohke.github.io)
+- **Email:** [mela9ine@proton.me](mailto:mela9ine@proton.me)
+- **Social:** [@donfelohke on X](https://x.com/donfelohke) · [Nakebusen 023 Beauty Lounge on Facebook](https://www.facebook.com/p/Nakebusen-023-Beauty-Lounge-61558789500287/)
+
+**Location note:** Eldoret Town / Karibu Mdosi is the current campaign wording. Kanamkemer / Lodwar, Turkana, remains part of the brand's roots. Confirm the service location when enquiring.
 
 ---
 
-## Ecosystem
+<div align="center">
 
-| Repo | Role |
-|------|------|
-| [feloh-corpus](https://github.com/donfelohke/feloh-corpus) | Canon · evidence standards |
-| [WARENA](https://github.com/donfelohke/WARENA) | Systems identity of Digital |
-| [Genje](https://github.com/donfelohke/Genje) | Creative practice — not checkout |
-| [Ikai](https://github.com/donfelohke/Ikai) | Research only |
-| [Gallery](https://github.com/donfelohke/Gallery) | Curated assets |
+**NAKEBUSEN · Locs · Powered by WARENA**
 
-Cross-domain relationships are documented in the [canonical architecture](https://github.com/donfelohke/feloh-corpus/blob/main/docs/canonical-architecture-2026-10-26.md).
+*GRACE · GRIT · GLORY*
 
-**Status:** Documentation and public offer baseline. Repository content is not proof that every listed service is available today.
+Made with care by **Felix Lwova · Don Feloh** · [@donfelohke](https://github.com/donfelohke)
 
+<sub>Repository documentation describes the intended public offer; it does not prove live availability, credentials, customer outcomes or service guarantees. Never commit customer personal records or secrets to Git.</sub>
 
-## Public service and brand baseline — 2026-10
-
-- **Positioning:** “Your Beauty ° Your Way.” Beauty-first, with digital services clearly secondary.
-- **Location:** Eldoret Town · Karibu Mdosi; preserve Lodwar / Kanamkemer roots where heritage context is relevant.
-- **Service prices:** Retouch & Styling — **KES 700**; Sisterlocs Retie — **KES 1,500**; Artificial Locs Install — **KES 3,500**.
-- **Conversion:** primary loc-care enquiry; secondary path to Digital services. An enquiry is not a confirmed booking; confirm availability and scope directly.
-- **Brand boundary:** NAKEBUSEN is the only commercial interface; WARENA powers the Digital practice.
-- **Website:** [donfelohke.github.io](https://donfelohke.github.io). Keep essential content readable on mobile and preserve accessible labels and focus states for compact controls.
+</div>
