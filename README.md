@@ -71,3 +71,13 @@ Do not invent testimonials, certifications or guarantees. Do not commit customer
 Cross-domain relationships are documented in the [canonical architecture](https://github.com/donfelohke/feloh-corpus/blob/main/docs/canonical-architecture-2026-10-26.md).
 
 **Status:** Documentation and public offer baseline. Repository content is not proof that every listed service is available today.
+
+
+## Public service and brand baseline — 2026-10
+
+- **Positioning:** “Your Beauty ° Your Way.” Beauty-first, with digital services clearly secondary.
+- **Location:** Eldoret Town · Karibu Mdosi; preserve Lodwar / Kanamkemer roots where heritage context is relevant.
+- **Service prices:** Retouch & Styling — **KES 700**; Sisterlocs Retie — **KES 1,500**; Artificial Locs Install — **KES 3,500**.
+- **Conversion:** primary loc-care enquiry; secondary path to Digital services. An enquiry is not a confirmed booking; confirm availability and scope directly.
+- **Brand boundary:** NAKEBUSEN is the only commercial interface; WARENA powers the Digital practice.
+- **Website:** [donfelohke.github.io](https://donfelohke.github.io). Keep essential content readable on mobile and preserve accessible labels and focus states for compact controls.
