@@ -36,11 +36,11 @@ Loc care comes first. Services are discussed directly so the work, condition of 
 | Sisterlocs Retie | **KES 1,500** |
 | Artificial Locs Install | **KES 3,500** |
 
-Prices are starting points; the final quote depends on the service, loc condition and materials. **Enquiry is not a confirmed booking.** Availability and timing must be confirmed directly. Braiding is not offered in the current public catalogue.
+Prices are starting points; the final quote depends on the service, loc condition and materials. **Enquiry is not a booking.** It is not confirmed until availability, timing and scope are agreed directly. Braiding is not offered in the current public catalogue.
 
 **Your style. Our craft.**
 
-## ⌘ NAKEBUSEN Digital
+## ⌘ NAKEBUSEN DIGITAL
 
 *Powered by WARENA · Freedom Is a System.*
 
@@ -51,7 +51,7 @@ Practical technology services, scoped to the actual need:
 - Local-first and offline-capable systems
 - Systems engineering and technical guidance
 
-Each engagement should establish feasibility, deliverables, price and support expectations before work begins. Listing a service here is not a guarantee of immediate availability.
+Each engagement should establish feasibility, deliverables, price and support expectations before work begins. The public service catalogue describes the offer; it does not guarantee immediate availability. Listing a service here is not a guarantee of immediate availability.
 
 **IKAI** is reflective-compute research, not a NAKEBUSEN product for sale.
 
