@@ -10,89 +10,80 @@
 
 **Eldoret Town · Karibu Mdosi · Kenya**
 
-[Explore the website](https://donfelohke.github.io) · [WhatsApp](https://wa.me/254719635415) · [Digital services](#-nakebusen-digital)
+[Website](https://donfelohke.github.io) · [WhatsApp](https://wa.me/254719635415)
 
 </div>
 
 ---
 
 > **NAKEBUSEN** is the public-facing home for loc care and digital services.  
-> **WARENA** powers the Digital practice. The brand stays human, useful and accessible.
+> **WARENA** powers the Digital practice.
 
-## ✦ At a glance
+**Last README alignment:** 27 October 2026.
 
-| **LOCs** | **DIGITAL** | **CONNECT** |
+## At a glance
+
+| **LOCS** | **DIGITAL** | **CONNECT** |
 |:--|:--|:--|
-| Natural loc care, retouch and styling | GNU/Linux, networking and practical systems support | Direct enquiries and clear expectations |
-| **GRACE · CRAFT** | **GRIT · SYSTEMS** | **GLORY · HUMAN AUTHORSHIP** |
+| Natural loc care, retouch and styling | GNU/Linux, networking, practical systems | Direct enquiries |
+| **GRACE · CRAFT** | **GRIT · SYSTEMS** | **GLORY · AUTHORSHIP** |
 
-## ♛ NAKEBUSEN Locs
-
-Loc care comes first. Services are discussed directly so the work, condition of the locs, materials and timing can be agreed before confirmation.
+## NAKEBUSEN Locs
 
 | Service | Starting price |
 |:--|--:|
 | Retouch & Styling | **KES 700** |
 | Sisterlocs Retie | **KES 1,500** |
-| Artificial Locs Install | **KES 3,500** |
+| Artificial Locs Installation | **KES 3,500** |
 
-Prices are starting points; the final quote depends on the service, loc condition and materials. **Enquiry is not a booking.** It is not confirmed until availability, timing and scope are agreed directly. Braiding is not offered in the current public catalogue.
+Starting prices only. **An enquiry is not a confirmed booking.** Braiding is not offered.
 
-**Your style. Our craft.**
-
-## ⌘ NAKEBUSEN DIGITAL
+## NAKEBUSEN Digital
 
 *Powered by WARENA · Freedom Is a System.*
 
-Practical technology services, scoped to the actual need:
+- GNU/Linux and workstation support  
+- Networking and small infrastructure  
+- Local-first / offline-capable systems  
 
-- GNU/Linux and workstation support
-- Small-office networking and infrastructure
-- Local-first and offline-capable systems
-- Systems engineering and technical guidance
+**IKAI** is research, not a product for sale.
 
-Each engagement should establish feasibility, deliverables, price and support expectations before work begins. The public service catalogue describes the offer; it does not guarantee immediate availability. Listing a service here is not a guarantee of immediate availability.
+## Start here
 
-**IKAI** is reflective-compute research, not a NAKEBUSEN product for sale.
+- [Service catalogue](docs/service-catalogue.md)  
+- [Digital service playbook](docs/digital-service-playbook.md)  
+- [Privacy and operations](docs/privacy-and-operations.md)  
+- [Governance](GOVERNANCE.md) · [Contributing](CONTRIBUTING.md)  
 
-## ↗ Start here
-
-- [Service catalogue](docs/service-catalogue.md) — public offer and price baseline
-- [Digital service playbook](docs/digital-service-playbook.md) — discovery through handover
-- [Privacy and operations](docs/privacy-and-operations.md) — careful handling of information
-- [Governance](GOVERNANCE.md) · [Contributing](CONTRIBUTING.md) · [Security](SECURITY.md)
-
-## ◈ The wider ecosystem
+## Ecosystem
 
 | Project | Relationship |
 |:--|:--|
-| [feloh-corpus](https://github.com/donfelohke/feloh-corpus) | Canon and evidence standards |
-| [WARENA](https://github.com/donfelohke/WARENA) | Systems identity powering Digital |
-| [Genje](https://github.com/donfelohke/Genje) | Creative practice — not checkout |
-| [Ikai](https://github.com/donfelohke/Ikai) | Reflective-compute research |
+| [feloh-corpus](https://github.com/donfelohke/feloh-corpus) | Canon |
+| [WARENA](https://github.com/donfelohke/WARENA) | Systems powering Digital |
+| [Genje](https://github.com/donfelohke/Genje) | Creative practice |
+| [Ikai](https://github.com/donfelohke/Ikai) | Reflective research |
 | [Gallery](https://github.com/donfelohke/Gallery) | Curated assets |
 
-Cross-project boundaries and relationships are described in the [canonical architecture](https://github.com/donfelohke/feloh-corpus/blob/main/docs/canonical-architecture-2026-10-26.md).
+[Canonical architecture](https://github.com/donfelohke/feloh-corpus/blob/main/docs/canonical-architecture-2026-10-26.md)
 
-## ☎ Connect
+## Connect
 
-- **WhatsApp / phone:** [+254 719 635 415](https://wa.me/254719635415)
-- **Website:** [donfelohke.github.io](https://donfelohke.github.io)
-- **Email:** [mela9ine@proton.me](mailto:mela9ine@proton.me)
-- **Social:** [@donfelohke on X](https://x.com/donfelohke) · [Nakebusen 023 Beauty Lounge on Facebook](https://www.facebook.com/p/Nakebusen-023-Beauty-Lounge-61558789500287/)
+- WhatsApp: [+254 719 635 415](https://wa.me/254719635415)  
+- Website: [donfelohke.github.io](https://donfelohke.github.io)  
+- Email: [mela9ine@proton.me](mailto:mela9ine@proton.me)  
+- [@donfelohke](https://x.com/donfelohke) · [Nakebusen 023 Beauty Lounge](https://www.facebook.com/p/Nakebusen-023-Beauty-Lounge-61558789500287/)  
 
-**Location note:** Eldoret Town / Karibu Mdosi is the current campaign wording. Kanamkemer / Lodwar, Turkana, remains part of the brand's roots. Confirm the service location when enquiring.
+**Location:** Eldoret Town / Karibu Mdosi (current campaign). Lodwar / Turkana remains part of brand roots.
 
 ---
 
 <div align="center">
 
-**NAKEBUSEN · Locs · Powered by WARENA**
+**NAKEBUSEN · Locs · Powered by WARENA** · *GRACE · GRIT · GLORY*
 
-*GRACE · GRIT · GLORY*
+**Felix Lwova · Don Feloh** · [@donfelohke](https://github.com/donfelohke)
 
-Made with care by **Felix Lwova · Don Feloh** · [@donfelohke](https://github.com/donfelohke)
-
-<sub>Repository documentation describes the intended public offer; it does not prove live availability, credentials, customer outcomes or service guarantees. Never commit customer personal records or secrets to Git.</sub>
+<sub>Documentation is not a guarantee of availability. Never commit customer personal records or secrets to Git.</sub>
 
 </div>
