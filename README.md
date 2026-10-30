@@ -17,7 +17,7 @@
 ---
 
 > **NAKEBUSEN** is the public-facing home for loc care and digital services.  
-> **WARENA** powers the Digital practice. The brand stays human, useful and accessible.
+> **WARENA** powers the Digital practice. The brand remains human, useful and accessible.
 
 ## ✦ At a glance
 
@@ -28,7 +28,7 @@
 
 ## ♛ NAKEBUSEN Locs
 
-Loc care comes first. Services are discussed directly so the work, condition of the locs, materials and timing can be agreed before confirmation.
+Loc care comes first. Services are discussed directly so that the work, condition of the locs, materials and timing can be agreed before confirmation.
 
 | Service | Starting price |
 |:--|--:|
