@@ -1,10 +1,19 @@
 # Webcopy research — NAKEBUSEN public site
 
-**Status:** RESEARCH / DOCUMENTATION · 25 October 2026  
+**Status:** RESEARCH / DOCUMENTATION · original research 2026-10-25; current proposition addendum 2026-10-31  
 **Scope:** Public website and FB/WhatsApp service copy for locs & nails in Kenya  
 **Copy rule:** Route offers, enquiries and service confirmations through the relevant NAKEBUSEN LOCS or DIGITAL pathway. An enquiry is not a booking.
 
 This note summarises market evidence and copy recommendations. It does not change live prices until the owner confirms.
+
+## Current parent proposition — 2026-10-31
+
+**NAKEBUSEN — Beautiful Roots. Sovereign Systems.**  
+*Craft, technology and culture rooted in African ingenuity.*
+
+Use **LOCS · CROWN** and **DIGITAL · WARENA** as the two customer-facing paths under the parent enterprise. WARENA powers the Digital practice; GENJE ZA WARENA is a cultural and creative identity, not a separate checkout brand. The detailed current messaging baseline is in [Brand Messaging](BRAND-MESSAGING-2026-10-31.md).
+
+The Facebook copy reproduced below is historical research material, not current website hero copy. Confirm its location, service and pricing details before reusing it.
 
 ---
 
