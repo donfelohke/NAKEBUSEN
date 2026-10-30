@@ -4,7 +4,9 @@
 
 ### Locs · Digital · Powered by WARENA
 
-**Your Beauty ° Your Way.**
+**Beautiful Roots. Sovereign Systems.**
+
+*Craft, technology and culture rooted in African ingenuity.*
 
 *Natural loc care and practical digital systems — grounded in craft, built with care.*
 
@@ -18,6 +20,10 @@
 
 > **NAKEBUSEN** is the public-facing home for loc care and digital services.  
 > **WARENA** powers the Digital practice. The brand remains human, useful and accessible.
+
+## Current brand messaging
+
+See [Brand Messaging (2026-10-31)](docs/BRAND-MESSAGING-2026-10-31.md) for the current parent proposition and the LOCS · CROWN / DIGITAL · WARENA customer paths.
 
 ## ✦ At a glance
 
