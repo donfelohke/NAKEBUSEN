@@ -1,9 +1,13 @@
 # NAKEBUSEN Knowledge Base Index
 
 **Public identity:** NAKEBUSEN LOCS • DIGITAL · Powered by WARENA · @donfelohke  
-**Status:** Initial operating documentation; entries require domain-specific review.
+**Status:** Initial operating documentation; entries require domain-specific review. Current umbrella proposition: **Beautiful Roots. Sovereign Systems.**
 
 This index routes knowledge to the right source. It does not certify that every described service, procedure, or system is active.
+
+## Current brand messaging
+
+- [Brand Messaging (2026-10-31)](BRAND-MESSAGING-2026-10-31.md) — current parent proposition and LOCS · CROWN / DIGITAL · WARENA paths.
 
 ## LOCS — beauty craft and care
 
