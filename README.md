@@ -38,9 +38,9 @@ Loc care comes first. Services are discussed directly so that the work, conditio
 
 | Service | Starting price |
 |:--|--:|
-| Retouch & Styling | **KES 700** |
-| Sisterlocs Retie | **KES 1,500** |
-| Artificial Locs Install | **KES 3,500** |
+| Retouch & Styling | **KES 700+** |
+| Sisterlocs Retie | **KES 1,500+** |
+| Artificial Locs Installation | **KES 3,500+** |
 
 Prices are starting points; the final quote depends on the service, loc condition and materials. **Enquiry is not a booking.** It is not confirmed until availability, timing and scope are agreed directly. Braiding is not offered in the current public catalogue.
 
