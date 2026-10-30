@@ -10,9 +10,9 @@ Sources: public website draft and owner-associated Facebook business posts. Curr
 
 | Service | Draft / public start | Seen on | Publication state |
 |---|---:|---|---|
-| Retouch & styling (loc retwists) | From KES 700 | Site + FB | NEEDS CURRENT OWNER CONFIRMATION |
-| Sisterlocs retie / maintenance | From KES 1,500 | Site + FB | NEEDS CURRENT OWNER CONFIRMATION — label as retie, not full install |
-| Artificial locs installation | From KES 3,500 | Site + FB | NEEDS CURRENT OWNER CONFIRMATION |
+| Retouch & Styling | From KES 700+ | Eldoret campaign | APPROVED CAMPAIGN START PRICE |
+| Sisterlocs Retie | From KES 1,500+ | Eldoret campaign | APPROVED CAMPAIGN START PRICE — retie, not full install |
+| Artificial Locs Installation | From KES 3,500+ | Eldoret campaign | APPROVED CAMPAIGN START PRICE |
 | Gel nails | From KES 400 | FB | NEEDS CONFIRMATION before website |
 | Manicure & pedicure | KES 500–700 | FB | NEEDS CONFIRMATION before website |
 
@@ -57,3 +57,4 @@ Before publishing or changing a service entry, verify:
 |---|---|---|
 | 2026-10-25 | Catalogue includes candidate nail lines and webcopy research link | Research pass; details still require owner confirmation |
 | 2026-10-26 | Added knowledge-base links and separate DIGITAL candidate-service status | Documentation architecture update; no price or service availability newly verified |
+| 2026-10-31 | Recorded owner-approved Eldoret campaign starting prices for the three loc services | Current campaign baseline; final price remains scope-dependent |
