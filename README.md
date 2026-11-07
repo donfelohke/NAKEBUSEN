@@ -102,3 +102,9 @@ Made with care by **Felix Lwova · Don Feloh** · [@donfelohke](https://github.c
 <sub>Repository documentation describes the intended public offer; it does not prove live availability, credentials, customer outcomes or service guarantees. Never commit customer personal records or secrets to Git.</sub>
 
 </div>
+
+---
+
+## Before Africa — naming and heritage
+
+Research note on contested continental naming, indigenous self-identification and responsible cultural representation. It separates brand interpretation from verified linguistic and historical evidence. [Read the research note](docs/BEFORE-AFRICA-NAMING-HERITAGE-AND-IDENTITY-2026-11-07.md).
