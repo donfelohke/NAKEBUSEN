@@ -108,3 +108,7 @@ Made with care by **Felix Lwova · Don Feloh** · [@donfelohke](https://github.c
 ## Before Africa — naming and heritage
 
 Research note on contested continental naming, indigenous self-identification and responsible cultural representation. It separates brand interpretation from verified linguistic and historical evidence. [Read the research note](docs/BEFORE-AFRICA-NAMING-HERITAGE-AND-IDENTITY-2026-11-07.md).
+
+## DIGITAL workstation research boundary — 2026-11
+
+WARENA is evaluating Guix/RDE, Niri + Noctalia v5, Sway, dwl-guile and Nix/NixOS as a comparator. These are research directions, not advertised installations or guaranteed service capabilities. NAKEBUSEN DIGITAL should make compatibility and delivery claims only after hardware-specific testing and documented scope. See the [cross-project desktop-stack alignment](https://github.com/donfelohke/feloh-corpus/blob/main/docs/desktop-stack-alignment-2026-11.md).
