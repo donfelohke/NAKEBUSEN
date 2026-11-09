@@ -23,3 +23,10 @@ NAKEBUSEN remains the only commercial transaction interface in the ecosystem. AI
 ## Licence boundary
 
 The existing GPL-3.0 repository licence is unchanged. It applies only to material actually covered by its grant; it does not automatically license customer content, third-party assets, photographs, logos or other separately owned material.
+
+
+## Code-laundering and supplier-source controls
+
+For website code, payment integrations, booking workflows, templates, fonts and third-party assets, record the supplier/source, exact version where available, licence or written permission, permitted use and required attribution. Do not copy private vendor portals, proprietary payment-provider code, customer material or restricted templates into AI tools for rewriting. Publicly viewable code or media is not automatically authorised for reuse.
+
+A human maintainer must resolve provenance and licensing questions before publishing code or assets that affect customer data, enquiries, payments or business claims. If a contribution's origin is uncertain, hold publication; do not disguise it through renaming, visual redesign or AI rewriting. This policy does not authorise payment verification, booking confirmation or processing of customer data.
