@@ -6,7 +6,8 @@ Before changing public service or brand information:
 3. Do not invent customer stories, testimonials, certifications, service guarantees, or operational capabilities.
 4. Do not include personal customer data or private communications in commits, screenshots, test fixtures, or issue descriptions.
 5. State what was reviewed and what remains unverified.
+6. Follow [AI Assistance, Customer Data and Source Provenance](AI-ASSISTED-DEVELOPMENT.md). Never submit customer-confidential data or unauthorised source material to an external AI service.
 
 For operational procedure changes, include purpose, responsible role, prerequisites, customer privacy implications, failure handling, and handover instructions.
 
-Use branches and pull requests for substantive changes. A published enquiry channel does not itself confirm a booking or payment.
+Use branches and pull requests for substantive changes. A published enquiry channel does not itself confirm a booking or payment. Material AI assistance in public claims or technical changes must be disclosed and human-reviewed.
