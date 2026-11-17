@@ -112,3 +112,10 @@ Research note on contested continental naming, indigenous self-identification an
 ## DIGITAL workstation research boundary — 2026-11
 
 WARENA is evaluating Guix/RDE, Niri + Noctalia v5, Sway, dwl-guile and Nix/NixOS as a comparator. These are research directions, not advertised installations or guaranteed service capabilities. NAKEBUSEN DIGITAL should make compatibility and delivery claims only after hardware-specific testing and documented scope. See the [cross-project desktop-stack alignment](https://github.com/donfelohke/feloh-corpus/blob/main/docs/desktop-stack-alignment-2026-11.md).
+
+
+## WARENA technical policy reference — 2026-11-17
+
+NAKEBUSEN DIGITAL's technical infrastructure is powered by WARENA and follows its current native-first, libre-first, local-first policy. JavaScript is prohibited in WARENA/IKAI application architecture; web technologies are not an approved runtime or application framework for those systems. This is an infrastructure policy, not a change to NAKEBUSEN's customer-facing service terms or a claim that existing public website assets have been migrated.
+
+See the [WARENA Technology Constitution](https://github.com/donfelohke/WARENA/blob/main/docs/TECHNOLOGY-CONSTITUTION-2026-11-17.md).
