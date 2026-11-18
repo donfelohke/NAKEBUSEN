@@ -23,6 +23,10 @@ This index routes knowledge to the right source. It does not certify that every 
 - [WARENA](https://github.com/donfelohke/WARENA) — technical implementation, systems engineering, reproducibility and infrastructure.
 - [Public website](https://github.com/donfelohke/donfelohke.github.io) — approved audience-facing service descriptions and enquiry routes.
 
+## Current technical policy reference
+
+- WARENA's current X11-first desktop and native-first / libre-first / local-first policy is documented in the [WARENA Technology Constitution](https://github.com/donfelohke/WARENA/blob/main/docs/TECHNOLOGY-CONSTITUTION-2026-11-17.md) and [desktop architecture](https://github.com/donfelohke/WARENA/blob/main/docs/DESKTOP-ARCHITECTURE.md). These are infrastructure research directions, not NAKEBUSEN service promises or evidence of installed systems.
+
 ## Shared rules
 
 1. Approved public service facts belong in the service catalogue and must be reviewed before publishing.
@@ -35,7 +39,7 @@ This index routes knowledge to the right source. It does not certify that every 
 
 ## Next validation work
 
-- Confirm current LOCS service names, prices, inclusions and campaign location with the owner.
+- Reconfirm LOCS service names, prices, inclusions and campaign location with the owner whenever a new campaign or service change is proposed; current approved Eldoret starting-price baseline is recorded in the catalogue.
 - Validate any hygiene, product, and aftercare instructions against reputable professional guidance and the actual materials used.
 - Approve the DIGITAL service catalogue, pricing approach, support terms and delivery checklist.
 - Add technical runbooks only after testing the described steps on the named environment.
