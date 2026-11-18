@@ -119,3 +119,7 @@ WARENA's current desktop research is X11-first: X.Org baseline; XLibre as a sepa
 NAKEBUSEN DIGITAL's technical infrastructure is powered by WARENA and follows its current native-first, libre-first, local-first policy. JavaScript is prohibited in WARENA/IKAI application architecture; web technologies are not an approved runtime or application framework for those systems. This is an infrastructure policy, not a change to NAKEBUSEN's customer-facing service terms or a claim that existing public website assets have been migrated.
 
 See the [WARENA Technology Constitution](https://github.com/donfelohke/WARENA/blob/main/docs/TECHNOLOGY-CONSTITUTION-2026-11-17.md).
+
+## IKAI Mirror — research boundary — 2026-11-18
+
+IKAI's Beauty Mirror research may study practical loc-care and beauty-workflow usability, including optical and lighting constraints. It is not a NAKEBUSEN service, product, booking feature or promise of automated assessment. NAKEBUSEN remains the only commercial interface; any future practical workflow would require separate approval, privacy review and evidence. See [IKAI's mirror research](https://github.com/donfelohke/Ikai/blob/main/docs/IKAI-MIRROR-TECHNOLOGY-AND-SCHOLARLY-RESEARCH-2026-11-18.md) and the [cross-project research boundary](https://github.com/donfelohke/feloh-corpus/blob/main/docs/IKAI-MIRROR-CROSS-PROJECT-ALIGNMENT-2026-11-18.md).
