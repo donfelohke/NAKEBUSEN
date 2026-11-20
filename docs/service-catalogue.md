@@ -6,17 +6,17 @@ Related: [Knowledge-base index](knowledge-base-index.md), [TAM, MVP & Sales Blue
 
 The blueprint governs market sizing, MVP sequencing and sales validation. This catalogue remains the authority for current service names, approved starting prices and public terms; the strategy document does not create new services or change prices.
 
-## LOCS candidate public service entries
+## LOCS approved public service entries
 
 Authority: current owner-approved public service baseline. The three loc-care entries and prices below are approved for publication; nail-service entries remain unapproved and must not be added to the public website without separate confirmation.
 
 | Service | Approved public price | Publication state |
-|---|---:|---|---|
+|---|---:|---|
 | Retouch & Styling | **KES 700+** | APPROVED STARTING PRICE |
 | Sisterlocs Retie | **KES 1,500+** | APPROVED STARTING PRICE — retie, not full install |
 | Artificial Locs Installation | **KES 3,500** | APPROVED PRICE — no plus sign |
-| Gel nails | From KES 400 | FB | NEEDS CONFIRMATION before website |
-| Manicure & pedicure | KES 500–700 | FB | NEEDS CONFIRMATION before website |
+| Gel nails | KES 400 | NEEDS CONFIRMATION before website |
+| Manicure & pedicure | KES 500–700 | NEEDS CONFIRMATION before website |
 
 The three approved loc-care prices are the current public baseline. Artificial Locs Installation is KES 3,500, not KES 3,500+. Do not add a plus sign to that price. Market context is not NAKEBUSEN pricing.
 
