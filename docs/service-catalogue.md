@@ -2,7 +2,9 @@
 
 This file is the review point for public service information. Do not treat an unconfirmed entry as a live offer.
 
-Related: [Knowledge-base index](knowledge-base-index.md), [webcopy research](webcopy-research.md), [LOCS operating knowledge](locs-operating-knowledge.md), and [DIGITAL service playbook](digital-service-playbook.md).
+Related: [Knowledge-base index](knowledge-base-index.md), [TAM, MVP & Sales Blueprint](MARKET-ENTRY-TAM-MVP-SALES-BLUEPRINT-2026-11-20.md), [webcopy research](webcopy-research.md), [LOCS operating knowledge](locs-operating-knowledge.md), and [DIGITAL service playbook](digital-service-playbook.md).
+
+The blueprint governs market sizing, MVP sequencing and sales validation. This catalogue remains the authority for current service names, approved starting prices and public terms; the strategy document does not create new services or change prices.
 
 ## LOCS candidate public service entries
 
