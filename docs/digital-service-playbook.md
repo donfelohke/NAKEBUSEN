@@ -4,6 +4,8 @@
 **Relationship:** NAKEBUSEN DIGITAL is powered by WARENA.  
 **Status:** PROPOSAL — operating framework; individual capabilities and offers require verification.
 
+**Commercial strategy:** see the [TAM, MVP & Sales Blueprint](MARKET-ENTRY-TAM-MVP-SALES-BLUEPRINT-2026-11-20.md) for the WARENA buyer segments, pilot-offer sequencing, quote discipline, acceptance criteria and investment gates. This playbook remains the operating procedure; the strategy does not make every candidate service a live offer.
+
 ## Purpose
 
 Give clients a clear, human-understandable path from technology problem to agreed scope, tested delivery, handover and support. Avoid selling a tool before understanding the need.
