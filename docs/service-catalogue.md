@@ -18,7 +18,7 @@ Authority: current owner-approved public service baseline. The three loc-care en
 | Gel nails | KES 400 | NEEDS CONFIRMATION before website |
 | Manicure & pedicure | KES 500–700 | NEEDS CONFIRMATION before website |
 
-The three approved loc-care prices are the current public baseline. Artificial Locs Installation is KES 3,500, not KES 3,500+. Do not add a plus sign to that price. Market context is not NAKEBUSEN pricing.
+The three approved loc-care prices are the current public baseline. Artificial Locs Installation is KES 3,500, without a plus sign. Do not add a plus sign to that price. Market context is not NAKEBUSEN pricing.
 
 ## DIGITAL candidate service families
 
