@@ -111,6 +111,8 @@ Research note on contested continental naming, indigenous self-identification an
 
 ## DIGITAL workstation research boundary — 2026-11
 
+WARENA's current desktop research is X11-first: X.Org baseline; XLibre as a separate compatibility experiment; Gershwin and Guile-WM/WM-NG as intended session tracks; Sway as comparison/recovery baseline; dwl-guile/Wayland as secondary and experimental. Guix + RDE remains the preferred systems/configuration research foundation. These are research directions, not advertised installations or guaranteed service capabilities. See the [WARENA desktop architecture](https://github.com/donfelohke/WARENA/blob/main/docs/DESKTOP-ARCHITECTURE.md) and [technology constitution](https://github.com/donfelohke/WARENA/blob/main/docs/TECHNOLOGY-CONSTITUTION-2026-11-17.md).
+
 WARENA's current desktop research is X11-first: X.Org baseline; XLibre as a separate compatibility experiment; Gershwin and Guile-WM/WM-NG as intended session tracks; Sway as comparison/recovery baseline; dwl-guile/Wayland as secondary and experimental. Guix + RDE remains the preferred systems/configuration research foundation. These are research directions, not advertised installations or guaranteed service capabilities. NAKEBUSEN DIGITAL should make compatibility and delivery claims only after hardware-specific testing and documented scope. See the [WARENA desktop architecture](https://github.com/donfelohke/WARENA/blob/main/docs/DESKTOP-ARCHITECTURE.md) and [technology constitution](https://github.com/donfelohke/WARENA/blob/main/docs/TECHNOLOGY-CONSTITUTION-2026-11-17.md).
 
 
