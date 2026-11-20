@@ -22,10 +22,13 @@ jobs:
           for file in README.md GOVERNANCE.md CONTRIBUTING.md SECURITY.md docs/service-catalogue.md docs/privacy-and-operations.md docs/knowledge-base-index.md docs/locs-operating-knowledge.md docs/digital-service-playbook.md; do
             test -s "$file" || { echo "Missing or empty required file: $file"; exit 1; }
           done
-          if grep -q "ONLY NAKEBUSEN TRANSACTS" README.md GOVERNANCE.md; then
-            echo "Public-facing governance copy must express the service boundary through the approved LOCS/DIGITAL pathways, not the literal slogan."
+          grep -q "ONLY NAKEBUSEN TRANSACTS" README.md || { echo "README missing the canonical transaction boundary"; exit 1; }
+          grep -Fq "**KES 3,500**" docs/service-catalogue.md || { echo "Catalogue missing the exact Artificial Locs Installation price"; exit 1; }
+          if grep -Fq "KES 3,500+" docs/service-catalogue.md; then
+            echo "Artificial Locs Installation must not carry a plus sign."
             exit 1
           fi
+          grep -q "3511456" docs/service-catalogue.md || { echo "Catalogue missing the published Buy Goods Till"; exit 1; }
           grep -qi "enquiry is not a booking" README.md
           grep -q "NAKEBUSEN DIGITAL" README.md
           grep -q "Powered by WARENA" README.md
