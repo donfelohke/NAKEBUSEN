@@ -1,8 +1,8 @@
 <div align="center">
 
-# NAKEBUSEN
+# NAKEBUSEN — ROOT
 
-### Locs · Digital · Powered by WARENA
+### Physical practice · Beauty · Heritage · Enterprise
 
 **Beautiful Roots. Sovereign Systems.**
 
@@ -18,12 +18,12 @@
 
 ---
 
-> **NAKEBUSEN** is the public-facing home for loc care and digital services.  
-> **WARENA** powers the Digital practice. The brand remains human, useful and accessible.
+> **NAKEBUSEN** is the ROOT domain: grounded physical practice, beauty, heritage, craft and enterprise. It is the only live commercial practice and transaction interface.  
+> **WARENA** is the distinct CAPABILITY domain that provides technical systems engineering and enablement. Digital services, where offered, transact only through NAKEBUSEN.
 
 ## Current brand messaging
 
-See [Brand Messaging (2026-10-31)](docs/BRAND-MESSAGING-2026-10-31.md) for the current parent proposition and the LOCS · CROWN / DIGITAL · WARENA customer paths.
+See the [F3L0H Sovereign Master Corpus](https://github.com/donfelohke/feloh-corpus/blob/main/docs/FELOH-SOVEREIGN-MASTER-CORPUS-2026-11-20.md) for the current four-domain constitution. Historical NAKEBUSEN-parent portfolio wording is superseded.
 
 ## ✦ At a glance
 
