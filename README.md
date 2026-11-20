@@ -42,7 +42,7 @@ Loc care comes first. Services are discussed directly so that the work, conditio
 |:--|--:|
 | Retouch & Styling | **KES 700+** |
 | Sisterlocs Retie | **KES 1,500+** |
-| Artificial Locs Installation | **KES 3,500+** |
+| Artificial Locs Installation | **KES 3,500** |
 
 Prices are starting points; the final quote depends on the service, loc condition and materials. **Enquiry is not a booking.** It is not confirmed until availability, timing and scope are agreed directly. Braiding is not offered in the current public catalogue.
 
@@ -62,6 +62,10 @@ Practical technology services, scoped to the actual need:
 Each engagement should establish feasibility, deliverables, price and support expectations before work begins. The public service catalogue describes the offer; it does not guarantee immediate availability. Listing a service here is not a guarantee of immediate availability.
 
 **IKAI** is reflective-compute research, not a NAKEBUSEN product for sale.
+
+## Payment and safety
+
+For an agreed NAKEBUSEN service, the published M-PESA Buy Goods details are **Till 3511456 · Merchant: FELIX LWOVA**. Confirm the service and total amount directly with NAKEBUSEN, then verify the merchant name and amount shown by M-PESA before entering your PIN. Never share a PIN or one-time code. An enquiry is not a payment request.
 
 ## ↗ Start here
 
@@ -112,8 +116,6 @@ Made with care by **Felix Lwova · Don Feloh** · [@donfelohke](https://github.c
 Research note on contested continental naming, indigenous self-identification and responsible cultural representation. It separates brand interpretation from verified linguistic and historical evidence. [Read the research note](docs/BEFORE-AFRICA-NAMING-HERITAGE-AND-IDENTITY-2026-11-07.md).
 
 ## DIGITAL workstation research boundary — 2026-11
-
-WARENA's current desktop research is X11-first: X.Org baseline; XLibre as a separate compatibility experiment; Gershwin and Guile-WM/WM-NG as intended session tracks; Sway as comparison/recovery baseline; dwl-guile/Wayland as secondary and experimental. Guix + RDE remains the preferred systems/configuration research foundation. These are research directions, not advertised installations or guaranteed service capabilities. See the [WARENA desktop architecture](https://github.com/donfelohke/WARENA/blob/main/docs/DESKTOP-ARCHITECTURE.md) and [technology constitution](https://github.com/donfelohke/WARENA/blob/main/docs/TECHNOLOGY-CONSTITUTION-2026-11-17.md).
 
 WARENA's current desktop research is X11-first: X.Org baseline; XLibre as a separate compatibility experiment; Gershwin and Guile-WM/WM-NG as intended session tracks; Sway as comparison/recovery baseline; dwl-guile/Wayland as secondary and experimental. Guix + RDE remains the preferred systems/configuration research foundation. These are research directions, not advertised installations or guaranteed service capabilities. NAKEBUSEN DIGITAL should make compatibility and delivery claims only after hardware-specific testing and documented scope. See the [WARENA desktop architecture](https://github.com/donfelohke/WARENA/blob/main/docs/DESKTOP-ARCHITECTURE.md) and [technology constitution](https://github.com/donfelohke/WARENA/blob/main/docs/TECHNOLOGY-CONSTITUTION-2026-11-17.md).
 
