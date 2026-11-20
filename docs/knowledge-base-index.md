@@ -9,6 +9,11 @@ This index routes knowledge to the right source. It does not certify that every 
 
 - [Brand Messaging (2026-10-31)](BRAND-MESSAGING-2026-10-31.md) — current parent proposition and LOCS · CROWN / DIGITAL · WARENA paths.
 
+## Market entry and commercial validation
+
+- [TAM, MVP & Sales Blueprint (2026-11-20)](MARKET-ENTRY-TAM-MVP-SALES-BLUEPRINT-2026-11-20.md) — bottom-up TAM/SAM/SOM discipline, LOCS-first MVP, sales funnel, unit economics, 90-day validation and investment gates. Strategy and validation plan; not a verified market-size study or financial forecast.
+- [Market & Customer Research (2026-10)](https://github.com/donfelohke/donfelohke.github.io/blob/main/research/nakebusen-market-customer-research-2026-10.md) — earlier hypotheses and customer-discovery plan.
+
 ## LOCS — beauty craft and care
 
 - [Service catalogue](service-catalogue.md) — candidate services, pricing status, public terms, and publication checks.

@@ -127,3 +127,8 @@ See the [WARENA Technology Constitution](https://github.com/donfelohke/WARENA/bl
 ## IKAI Mirror — research boundary — 2026-11-18
 
 IKAI's Beauty Mirror research may study practical loc-care and beauty-workflow usability, including optical and lighting constraints. It is not a NAKEBUSEN service, product, booking feature or promise of automated assessment. NAKEBUSEN remains the only commercial interface; any future practical workflow would require separate approval, privacy review and evidence. See [IKAI's mirror research](https://github.com/donfelohke/Ikai/blob/main/docs/IKAI-MIRROR-TECHNOLOGY-AND-SCHOLARLY-RESEARCH-2026-11-18.md) and the [cross-project research boundary](https://github.com/donfelohke/feloh-corpus/blob/main/docs/IKAI-MIRROR-CROSS-PROJECT-ALIGNMENT-2026-11-18.md).
+
+
+## Market entry, TAM and MVP sales strategy — 2026-11-20
+
+The [TAM, MVP & Sales Blueprint](docs/MARKET-ENTRY-TAM-MVP-SALES-BLUEPRINT-2026-11-20.md) is the current strategy record for market sizing discipline, the LOCS-first MVP, sales conversion, service economics, 90-day validation, and investment gates. It extends the [existing market and customer research](https://donfelohke.github.io/research/nakebusen-market-customer-research-2026-10.md). It does not change the approved service catalogue or create new public offers. **ONLY NAKEBUSEN TRANSACTS.**
