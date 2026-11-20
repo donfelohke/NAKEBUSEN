@@ -18,6 +18,8 @@
 
 ---
 
+**ONLY NAKEBUSEN TRANSACTS.**
+
 > **NAKEBUSEN** is the ROOT domain: grounded physical practice, beauty, heritage, craft and enterprise. It is the only live commercial practice and transaction interface.  
 > **WARENA** is the distinct CAPABILITY domain that provides technical systems engineering and enablement. Digital services, where offered, transact only through NAKEBUSEN.
 
