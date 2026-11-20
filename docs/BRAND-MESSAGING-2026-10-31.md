@@ -1,4 +1,4 @@
-> **SUPERSEDED FOR CURRENT DOMAIN ARCHITECTURE — 2026-11-20.** This is a dated NAKEBUSEN campaign-messaging record, not the current cross-domain constitution. The current hierarchy is governed by the [F3L0H Sovereign Master Corpus](https://github.com/donfelohke/feloh-corpus/blob/main/docs/FELOH-SOVEREIGN-MASTER-CORPUS-2026-11-20.md): NAKEBUSEN / ROOT, IKAI / MIRROR, GENJE / EXPRESSION and WARENA / CAPABILITY. NAKEBUSEN remains the only live commercial practice and transaction interface; WARENA is not a sub-brand or parent enterprise.
+> **SUPERSEDED FOR CURRENT DOMAIN ARCHITECTURE — 2026-11-20.** This is a dated NAKEBUSEN campaign-messaging record, not the current cross-domain constitution. The current hierarchy is governed by the [F3L0H Sovereign Master Corpus](https://github.com/donfelohke/feloh-corpus/blob/main/docs/FELOH-SOVEREIGN-MASTER-CORPUS-2026-11-20.md): NAKEBUSEN / ROOT, IKAI / MIRROR, GENJE / EXPRESSION and WARENA / CAPABILITY. NAKEBUSEN remains the only live commercial practice and transaction interface: **ONLY NAKEBUSEN TRANSACTS.** WARENA is not a sub-brand or parent enterprise.
 
 ---
 
