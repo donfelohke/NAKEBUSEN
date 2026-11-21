@@ -142,3 +142,8 @@ The [TAM, MVP & Sales Blueprint](docs/MARKET-ENTRY-TAM-MVP-SALES-BLUEPRINT-2026-
 The public [Glass Terminal UI / UX / XR research page](https://donfelohke.github.io/research/glass-terminal/) documents an exploratory interface direction connecting WARENA's native computing architecture, IKAI's reflective-computing research and GENJE's embodied creative practice. It is a research presentation, not a NAKEBUSEN service, booking flow, product, XR deployment or promise of automated beauty assessment.
 
 The public website may use HTML/CSS for its presentation layer; this does not change WARENA/IKAI's native-first application policy. **ONLY NAKEBUSEN TRANSACTS.**
+
+
+## Repository upgrade plan
+
+See [the repository upgrade plan](docs/REPOSITORY-UPGRADE-PLAN-2026-11-21.md). It records maintenance and quality gates without claiming unfinished work is complete.
