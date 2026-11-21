@@ -61,7 +61,7 @@ Practical technology services, scoped to the actual need:
 
 Each engagement should establish feasibility, deliverables, price and support expectations before work begins. The public service catalogue describes the offer; it does not guarantee immediate availability. Listing a service here is not a guarantee of immediate availability.
 
-**IKAI** is reflective-compute research, not a NAKEBUSEN product for sale.
+**IKAI** is reflective-compute research, not a NAKEBUSEN product for sale. Its [REFLECTION± research](https://github.com/donfelohke/Ikai/blob/main/docs/REFLECTION-PLUS-MINUS-LIGHT-IN-LIGHT-OUT-COMPUTE-RESEARCH-2026-11-21.md) examines optical input, compute and display output as a future research context; it does not change the current NAKEBUSEN service catalogue or imply a deployed beauty-tech system.
 
 ## Payment and safety
 
