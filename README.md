@@ -59,7 +59,7 @@ Practical technology services, scoped to the actual need:
 - Local-first and offline-capable systems
 - Systems engineering and technical guidance
 
-Each engagement should establish feasibility, deliverables, price and support expectations before work begins. The public service catalogue describes the offer; it does not guarantee immediate availability. Listing a service here is not a guarantee of immediate availability.
+Each engagement should establish feasibility, deliverables, price and support expectations before work begins. The public service catalogue describes the offer but does not guarantee immediate availability.
 
 **IKAI** is reflective-compute research, not a NAKEBUSEN product for sale. Its [REFLECTION± research](https://github.com/donfelohke/Ikai/blob/main/docs/REFLECTION-PLUS-MINUS-LIGHT-IN-LIGHT-OUT-COMPUTE-RESEARCH-2026-11-21.md) examines optical input, compute and display output as a future research context; it does not change the current NAKEBUSEN service catalogue or imply a deployed beauty-tech system.
 
@@ -84,7 +84,7 @@ For an agreed NAKEBUSEN service, the published M-PESA Buy Goods details are **Ti
 | [Ikai](https://github.com/donfelohke/Ikai) | Reflective-compute research |
 | [Gallery](https://github.com/donfelohke/Gallery) | Curated assets |
 
-Cross-project boundaries and relationships are described in the [canonical architecture](https://github.com/donfelohke/feloh-corpus/blob/main/docs/canonical-architecture-2026-10-26.md).
+Cross-project boundaries and relationships are governed by the [F3L0H Sovereign Master Corpus](https://github.com/donfelohke/feloh-corpus/blob/main/docs/FELOH-SOVEREIGN-MASTER-CORPUS-2026-11-20.md). The older 2026-10-26 architecture remains historical.
 
 ## ☎ Connect
 
