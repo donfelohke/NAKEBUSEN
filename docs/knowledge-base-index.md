@@ -28,7 +28,7 @@ This index routes knowledge to the right source. It does not certify that every 
 - [WARENA](https://github.com/donfelohke/WARENA) — technical implementation, systems engineering, reproducibility and infrastructure.
 - [Public website](https://github.com/donfelohke/donfelohke.github.io) — approved audience-facing service descriptions and enquiry routes.
 
-## Current technical policy reference
+## ROOT operations, tax and data protection\n\n- [ROOT Operations, Tax and Data-Protection Research (2026-11-21)](ROOT-OPERATIONS-AND-COMPLIANCE-RESEARCH-2026-11-21.md) — KRA eTIMS, ODPC registration applicability, customer data handling, Uasin Gishu County verification and operating evidence. Research note only; it does not certify compliance or alter the service catalogue.\n\n## Current technical policy reference
 
 - WARENA's current X11-first desktop and native-first / libre-first / local-first policy is documented in the [WARENA Technology Constitution](https://github.com/donfelohke/WARENA/blob/main/docs/TECHNOLOGY-CONSTITUTION-2026-11-17.md) and [desktop architecture](https://github.com/donfelohke/WARENA/blob/main/docs/DESKTOP-ARCHITECTURE.md). These are infrastructure research directions, not NAKEBUSEN service promises or evidence of installed systems.
 
