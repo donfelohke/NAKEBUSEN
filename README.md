@@ -74,7 +74,9 @@ For an agreed NAKEBUSEN service, the published M-PESA Buy Goods details are **Ti
 - [Privacy and operations](docs/privacy-and-operations.md) — careful handling of information
 - [Governance](GOVERNANCE.md) · [Contributing](CONTRIBUTING.md) · [Security](SECURITY.md)
 
-- [ROOT operations, tax and data-protection research](docs/ROOT-OPERATIONS-AND-COMPLIANCE-RESEARCH-2026-11-21.md) — eTIMS, ODPC applicability, customer privacy and county-verification questions; research only, not a compliance certificate.\n\n## ◈ The wider ecosystem
+- [ROOT operations, tax and data-protection research](docs/ROOT-OPERATIONS-AND-COMPLIANCE-RESEARCH-2026-11-21.md) — eTIMS, ODPC applicability, customer privacy and county-verification questions; research only, not a compliance certificate.
+
+## ◈ The wider ecosystem
 
 | Project | Relationship |
 |:--|:--|
