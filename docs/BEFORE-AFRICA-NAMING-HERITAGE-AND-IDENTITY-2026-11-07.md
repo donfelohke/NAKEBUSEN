@@ -35,3 +35,8 @@ Commercial services, prices and booking conditions remain governed by the curren
 - UNESCO, *General History of Africa*: https://www.unesco.org/en/general-history-africa
 
 **Master dossier:** https://github.com/donfelohke/feloh-corpus/blob/main/docs/before-africa-research-dossier-2026-11-07.md
+
+
+## BLACK HINTERLAND alignment — 22 November 2026
+
+The integrated programme map is [BLACK HINTERLAND — BEFORE AFRICA](https://github.com/donfelohke/feloh-corpus/blob/main/docs/BLACK-HINTERLAND-BEFORE-AFRICA-MASTER-DOSSIER-2026-11-22.md). NAKEBUSEN's current bounded extension is [Black Hinterland — Heritage, Identity and Responsible Representation](BLACK-HINTERLAND-HERITAGE-IDENTITY-AND-REPRESENTATION-2026-11-22.md). Brand interpretation must remain distinct from historical evidence, and this research does not change commercial facts or service terms.
