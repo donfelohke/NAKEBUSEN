@@ -53,3 +53,10 @@ This index routes knowledge to the right source. It does not certify that every 
 - Approve the DIGITAL service catalogue, pricing approach, support terms and delivery checklist.
 - Add technical runbooks only after testing the described steps on the named environment.
 - Link test evidence, versions, dates and known limitations.
+
+
+
+## Heritage and cultural representation
+
+- [Black Hinterland — Heritage, Identity and Responsible Representation (2026-11-22)](BLACK-HINTERLAND-HERITAGE-IDENTITY-AND-REPRESENTATION-2026-11-22.md) — NAKEBUSEN's bounded guidance for naming, beauty, hair, craft, cultural attribution and responsible representation.
+- Shared historical framework: [FELOH Corpus master dossier](https://github.com/donfelohke/feloh-corpus/blob/main/docs/BLACK-HINTERLAND-BEFORE-AFRICA-MASTER-DOSSIER-2026-11-22.md).
