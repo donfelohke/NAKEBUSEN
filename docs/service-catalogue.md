@@ -34,7 +34,8 @@ See the [DIGITAL service playbook](digital-service-playbook.md). Candidate famil
 - **Phone / WhatsApp:** +254 719 635 415 · https://wa.me/254719635415.
 - **Handle:** @donfelohke.
 - **Email:** mela9ine@proton.me.
-- Do not promise home visits, additional locations or opening hours without explicit current confirmation.
+- Do not promise home visits outside the wider Eldoret Town area or without confirming exact location, service suitability, availability and travel arrangements.
+- Do not publish a fixed kilometre radius or imply universal coverage.
 
 ## Published M-PESA Buy Goods details
 
@@ -44,6 +45,12 @@ See the [DIGITAL service playbook](digital-service-playbook.md). Candidate famil
 - Before entering a PIN, verify that M-PESA displays the confirmed merchant name and agreed amount.
 - Never request or share an M-PESA PIN or one-time code. Keep the confirmation message.
 - An enquiry is not a booking or payment request; payment is due only after the service and total amount are agreed directly.
+
+## Local directions and home-call coverage
+
+The public map reference is **F743+R35, Eldoret, Kenya** ([Google Maps pin](https://maps.app.goo.gl/QE9MTjQAUSx4DXGe6)). From Eldoret CBD, open the pin and choose live directions. Matatu passengers should confirm the correct drop-off with the conductor; no “Malel Stage” stop is verified in this catalogue. For the final leg, share the pin with a boda boda rider.
+
+Loc-care home calls may be arranged within the wider Eldoret Town area. Confirm the exact location, service suitability, availability and travel arrangements directly; no fixed kilometre radius is asserted.
 
 ## Location history
 
