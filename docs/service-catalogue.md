@@ -30,7 +30,7 @@ See the [DIGITAL service playbook](digital-service-playbook.md). Candidate famil
 
 ## Modes and contact
 
-- **Current loc-care location:** Near King's Square · Kisumu Road · Eldoret Town · Uasin Gishu · Kenya. Map reference: F743+R35, Eldoret, Kenya.
+- **Current loc-care location:** Beside King's Square · Kisumu Road · Eldoret Town · Uasin Gishu · Kenya. Map reference: F743+R35, Eldoret, Kenya.
 - **Phone / WhatsApp:** +254 719 635 415 · https://wa.me/254719635415.
 - **Handle:** @donfelohke.
 - **Email:** mela9ine@proton.me.
@@ -48,13 +48,13 @@ See the [DIGITAL service playbook](digital-service-playbook.md). Candidate famil
 
 ## Local directions and home-call coverage
 
-NAKEBUSEN is located near **King's Square on Kisumu Road, Eldoret Town**. The public directions reference is **F743+R35, Eldoret, Kenya** ([Google Maps map pin](https://maps.app.goo.gl/QE9MTjQAUSx4DXGe6)). From Eldoret CBD, open the pin and choose live directions. For matatu travel, ask for King's Square on Kisumu Road and confirm the nearest suitable drop-off with the conductor before boarding. A boda boda rider can use the shared pin for the final approach. Contact NAKEBUSEN if you need the exact entrance cue.
+NAKEBUSEN is located beside **King's Square on Kisumu Road, Eldoret Town**. The public directions reference is **F743+R35, Eldoret, Kenya** ([Google Maps map pin](https://maps.app.goo.gl/QE9MTjQAUSx4DXGe6)). From Eldoret CBD, open the pin and choose live directions. For matatu travel, ask for King's Square on Kisumu Road and confirm the nearest suitable drop-off with the conductor before boarding. A boda boda rider can use the shared pin for the final approach. Contact NAKEBUSEN if you need the exact entrance cue.
 
 Loc-care home calls may be arranged across the wider Eldoret Town service area. Confirm the exact customer location, service suitability, availability and any travel costs directly before agreeing a visit. Coverage is assessed by location; no fixed kilometre radius or universal coverage is promised.
 
 ## Location history
 
-Kanamkemer / Lodwar, Turkana is part of NAKEBUSEN's roots and history. It is not an additional current public service location. The current loc-care service wording is Near King's Square on Kisumu Road, Eldoret Town, Uasin Gishu County, Kenya.
+Kanamkemer / Lodwar, Turkana is part of NAKEBUSEN's roots and history. It is not an additional current public service location. The current loc-care service wording is Beside King's Square on Kisumu Road, Eldoret Town, Uasin Gishu County, Kenya.
 
 ## Publication checklist
 
