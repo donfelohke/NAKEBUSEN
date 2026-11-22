@@ -13,8 +13,8 @@
 
 *Natural loc care and practical digital systems — grounded in craft, built with care.*
 
-**Near King's Square · Kisumu Road · Eldoret Town · Uasin Gishu · Kenya**  
-**Directions:** Near King's Square on Kisumu Road · F743+R35, Eldoret, Kenya · [Open NAKEBUSEN map pin](https://maps.app.goo.gl/QE9MTjQAUSx4DXGe6) · [Driving directions from Eldoret CBD](https://www.google.com/maps/dir/?api=1&origin=Eldoret%20CBD%2C%20Eldoret%2C%20Kenya&destination=F743%2BR35%2C%20Eldoret%2C%20Kenya&travelmode=driving)
+**Beside King's Square · Kisumu Road · Eldoret Town · Uasin Gishu · Kenya**  
+**Directions:** Beside King's Square on Kisumu Road · F743+R35, Eldoret, Kenya · [Open NAKEBUSEN map pin](https://maps.app.goo.gl/QE9MTjQAUSx4DXGe6) · [Driving directions from Eldoret CBD](https://www.google.com/maps/dir/?api=1&origin=Eldoret%20CBD%2C%20Eldoret%2C%20Kenya&destination=F743%2BR35%2C%20Eldoret%2C%20Kenya&travelmode=driving)
 
 [Explore the website](https://donfelohke.github.io) · [WhatsApp](https://wa.me/254719635415) · [Digital services](#-nakebusen-digital)
 
@@ -99,7 +99,7 @@ Cross-project boundaries and relationships are governed by the [F3L0H Sovereign 
 - **Email:** [mela9ine@proton.me](mailto:mela9ine@proton.me)
 - **Social:** [@donfelohke on X](https://x.com/donfelohke) · [Nakebusen 023 Beauty Lounge on Facebook](https://www.facebook.com/p/Nakebusen-023-Beauty-Lounge-61558789500287/)
 
-**Location and service-area note:** NAKEBUSEN is near **King's Square on Kisumu Road, Eldoret Town, Uasin Gishu County, Kenya**. The customer directions reference is **F743+R35, Eldoret, Kenya** ([Google Maps map pin](https://maps.app.goo.gl/QE9MTjQAUSx4DXGe6)). From Eldoret CBD, open the pin for live directions. Matatu passengers should ask for King's Square on Kisumu Road and confirm the nearest suitable drop-off with the conductor before boarding. A boda boda rider can use the shared pin for the final approach. Contact NAKEBUSEN if you need the exact entrance cue. Loc-care home calls may be arranged across the wider Eldoret Town service area, subject to confirmation of the exact location, service suitability, availability and any travel costs. Kanamkemer / Lodwar, Turkana, remains part of the brand's roots and history.
+**Location and service-area note:** NAKEBUSEN is beside **King's Square on Kisumu Road, Eldoret Town, Uasin Gishu County, Kenya**. The customer directions reference is **F743+R35, Eldoret, Kenya** ([Google Maps map pin](https://maps.app.goo.gl/QE9MTjQAUSx4DXGe6)). From Eldoret CBD, open the pin for live directions. Matatu passengers should ask for King's Square on Kisumu Road and confirm the nearest suitable drop-off with the conductor before boarding. A boda boda rider can use the shared pin for the final approach. Contact NAKEBUSEN if you need the exact entrance cue. Loc-care home calls may be arranged across the wider Eldoret Town service area, subject to confirmation of the exact location, service suitability, availability and any travel costs. Kanamkemer / Lodwar, Turkana, remains part of the brand's roots and history.
 
 ---
 
