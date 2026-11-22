@@ -60,3 +60,8 @@ This index routes knowledge to the right source. It does not certify that every 
 
 - [Black Hinterland — Heritage, Identity and Responsible Representation (2026-11-22)](BLACK-HINTERLAND-HERITAGE-IDENTITY-AND-REPRESENTATION-2026-11-22.md) — NAKEBUSEN's bounded guidance for naming, beauty, hair, craft, cultural attribution and responsible representation.
 - Shared historical framework: [FELOH Corpus master dossier](https://github.com/donfelohke/feloh-corpus/blob/main/docs/BLACK-HINTERLAND-BEFORE-AFRICA-MASTER-DOSSIER-2026-11-22.md).
+
+
+## Current practice and publication alignment — 2026-11-22
+
+See [NAKEBUSEN practice and service update](ECOSYSTEM-UPDATE-2026-11-22.md) for the approved loc-care service baseline, enquiry boundary, manual payment safeguards and commercial ownership rules.
