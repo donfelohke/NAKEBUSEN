@@ -22,3 +22,9 @@ NAKEBUSEN is the only live commercial practice and transaction interface across 
 3. Add a service change log and review date.
 4. Standardise enquiry/booking status language.
 5. Review customer-facing assets for consent, provenance and relevance.
+
+## Execution addendum — 2026-11-22
+
+Direct-to-main updates aligned the README, service knowledge index and current practice record. The authoritative catalogue remains the source for prices: Retouch & Styling KES 700+, Sisterlocs Retie KES 1,500+, Artificial Locs Installation KES 3,500. The website copy was reconciled to those facts. No new service, price, booking automation or payment integration was introduced.
+
+**Verification:** repository validation workflow passed. Owner confirmation remains required before any future service or price change; enquiry remains distinct from booking.
