@@ -1,5 +1,8 @@
 <div align="center">
 
+> Current alignment: [Ecosystem update — 2026-11-22](docs/ECOSYSTEM-UPDATE-2026-11-22.md). This dated record supplements this README; it does not replace the canonical source documents.
+
+
 # NAKEBUSEN — ROOT
 
 ### Physical practice · Beauty · Heritage · Enterprise
