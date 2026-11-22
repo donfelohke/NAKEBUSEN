@@ -149,3 +149,9 @@ The public website may use HTML/CSS for its presentation layer; this does not ch
 ## Repository upgrade plan
 
 See [the repository upgrade plan](docs/REPOSITORY-UPGRADE-PLAN-2026-11-21.md). It records maintenance and quality gates without claiming unfinished work is complete.
+
+
+
+## BLACK HINTERLAND — heritage and representation
+
+NAKEBUSEN's bounded research note is [Black Hinterland — Heritage, Identity and Responsible Representation (2026-11-22)](docs/BLACK-HINTERLAND-HERITAGE-IDENTITY-AND-REPRESENTATION-2026-11-22.md). It governs historical and cultural references in brand storytelling; it does not change the service catalogue, public prices or booking/payment terms. Shared history and evidence standards: [FELOH Corpus master dossier](https://github.com/donfelohke/feloh-corpus/blob/main/docs/BLACK-HINTERLAND-BEFORE-AFRICA-MASTER-DOSSIER-2026-11-22.md).
