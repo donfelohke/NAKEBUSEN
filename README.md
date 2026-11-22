@@ -13,7 +13,8 @@
 
 *Natural loc care and practical digital systems — grounded in craft, built with care.*
 
-**Eldoret Town · Karibu Mdosi · Kenya**
+**Eldoret Town · Karibu Mdosi · Kenya**  
+**Directions:** F743+R35, Eldoret, Kenya · [Open NAKEBUSEN in Google Maps](https://maps.app.goo.gl/QE9MTjQAUSx4DXGe6) · [Driving directions from Eldoret CBD](https://www.google.com/maps/dir/?api=1&origin=Eldoret%20CBD%2C%20Eldoret%2C%20Kenya&destination=F743%2BR35%2C%20Eldoret%2C%20Kenya&travelmode=driving)
 
 [Explore the website](https://donfelohke.github.io) · [WhatsApp](https://wa.me/254719635415) · [Digital services](#-nakebusen-digital)
 
@@ -98,7 +99,7 @@ Cross-project boundaries and relationships are governed by the [F3L0H Sovereign 
 - **Email:** [mela9ine@proton.me](mailto:mela9ine@proton.me)
 - **Social:** [@donfelohke on X](https://x.com/donfelohke) · [Nakebusen 023 Beauty Lounge on Facebook](https://www.facebook.com/p/Nakebusen-023-Beauty-Lounge-61558789500287/)
 
-**Location note:** Eldoret Town / Karibu Mdosi is the current campaign wording. Kanamkemer / Lodwar, Turkana, remains part of the brand's roots. Confirm the service location when enquiring.
+**Location and service-area note:** The customer directions reference is **F743+R35, Eldoret, Kenya** ([Google Maps pin](https://maps.app.goo.gl/QE9MTjQAUSx4DXGe6)). From Eldoret CBD, use the live map route; matatu passengers should confirm a suitable drop-off with the conductor. Do not rely on “Malel Stage” as a verified stop. Loc-care home calls may be arranged within the wider Eldoret Town area, subject to direct confirmation of the exact location, service suitability, availability and travel arrangements. Kanamkemer / Lodwar, Turkana, remains part of the brand's roots and history.
 
 ---
 
