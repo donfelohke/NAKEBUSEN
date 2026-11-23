@@ -62,3 +62,10 @@ Before publication, verify destination URLs, social accounts, location, price, s
 ## 7. Change record
 
 2026-10-31 — Recorded the current parent proposition and clarified LOCS · CROWN / DIGITAL · WARENA as the two customer-facing paths.
+
+
+## Brand-platform precedence — 2026-11-24
+
+The current public lockup is **NAKEBUSEN · WARENA POWERED**. The shared ethos is **GRACE · GRIT · GLORY | GENJE ZA WARENA**. The master positioning is **BEAUTIFUL ROOTS. SOVEREIGN SYSTEMS.** Founder signature: **@donfelohke · #HisGenjeness**.
+
+NAKEBUSEN is the primary enterprise and only transaction interface. WARENA POWERED is an endorsement of technical capability, not a separate commercial identity. GENJE ZA WARENA is creative expression. This 2026-11-24 platform supersedes older parent-brand lockup wording in this messaging note where presentation hierarchy differs. See the [canonical Brand Platform](https://github.com/donfelohke/feloh-corpus/blob/main/docs/NAKEBUSEN-WARENA-BRAND-PLATFORM-2026-11-24.md).
