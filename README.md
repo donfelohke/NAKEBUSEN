@@ -24,7 +24,7 @@ NAKEBUSEN is the ROOT domain: grounded physical practice, beauty, heritage, loc 
 | Sisterlocs Retie | **KES 1,500+** |
 | Artificial Locs Installation | **KES 3,500** |
 
-Prices are starting points. Final scope and price depend on loc condition, materials and work required and are agreed directly before work begins. Braiding is not offered in the current public catalogue. **An enquiry does not confirm a booking.** Availability, timing and scope must be agreed directly.
+Prices are starting points. Final scope and price depend on loc condition, materials and work required and are agreed directly before work begins. Braiding is not offered in the current public catalogue. **An enquiry is not a booking; an appointment is confirmed only after scope, timing and terms are agreed.** Availability, timing and scope must be agreed directly.
 
 ## NAKEBUSEN DIGITAL
 
@@ -95,3 +95,12 @@ Canonical identity specification: [FELOH Corpus — GRACE · GRIT · GLORY](http
 NAKEBUSEN remains the primary enterprise and customer-facing identity. WARENA POWERED is the technical-capability endorsement; it does not create a competing shop or transaction interface. GRACE · GRIT · GLORY is the shared ethos. GENJE ZA WARENA is creative expression, not a commercial subsidiary. **ONLY NAKEBUSEN TRANSACTS.**
 
 See the [NAKEBUSEN × WARENA Brand Platform](https://github.com/donfelohke/feloh-corpus/blob/main/docs/NAKEBUSEN-WARENA-BRAND-PLATFORM-2026-11-24.md) for the canonical story, purpose, vision, mission, values, positioning, About copy, founder biography, naming-evidence policy and editorial standards.
+
+
+## Ecosystem alignment · 2026-11-24
+
+See the [cross-project alignment update](docs/ECOSYSTEM-ALIGNMENT-2026-11-24.md) for shared identity, repository boundaries, evidence/maturity rules and documentation priorities.
+
+## Brand platform · 2026-11-24
+
+See [NAKEBUSEN Brand Platform and Messaging](docs/BRAND-PLATFORM-AND-MESSAGING-2026-11-24.md) and the [FELOH Corpus canonical brand platform](https://github.com/donfelohke/feloh-corpus/blob/main/docs/NAKEBUSEN-WARENA-BRAND-PLATFORM-2026-11-24.md). Service facts remain governed by the approved service catalogue and operations records.
