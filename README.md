@@ -22,7 +22,7 @@ NAKEBUSEN is the ROOT domain: grounded physical practice, beauty, heritage, loc 
 |---|---:|
 | Retouch & Styling | **KES 700+** |
 | Sisterlocs Retie | **KES 1,500+** |
-| Artificial Locs Installation | **KES 3,500** |
+| Artificial Locs Installation | **KES 3,500+** |
 
 Prices are starting points. Final scope and price depend on loc condition, materials and work required and are agreed directly before work begins. Braiding is not offered in the current public catalogue. **An enquiry is not a booking; an appointment is confirmed only after scope, timing and terms are agreed.** Availability, timing and scope must be agreed directly.
 
@@ -80,7 +80,7 @@ NAKEBUSEN began in Kanamkemer, Lodwar, Turkana County. This is the brand's histo
 
 > FELOH generates. NAKEBUSEN grounds. IKAI reflects. WARENA enables. GENJE embodies.
 
-**ONLY NAKEBUSEN TRANSACTS.** An enquiry does not confirm a booking. Keep current prices, service scope, availability, payment instructions and customer terms grounded in the canonical service and operations records.
+**ONLY NAKEBUSEN TRANSACTS.** An enquiry is not a booking; appointment confirmation follows agreement on scope, timing and terms. Keep current prices, service scope, availability, payment instructions and customer terms grounded in the canonical service and operations records.
 
 Canonical identity specification: [FELOH Corpus — GRACE · GRIT · GLORY](https://github.com/donfelohke/feloh-corpus/blob/main/docs/GRACE-GRIT-GLORY-GENJE-ZA-WARENA-IDENTITY-SYSTEM-2026-11-23.md).
 
