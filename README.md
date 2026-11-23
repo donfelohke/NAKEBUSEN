@@ -70,3 +70,15 @@ NAKEBUSEN began in Kanamkemer, Lodwar, Turkana County. This is the brand's histo
 
 **NAKEBUSEN · ROOT · GRACE**  
 **Heritage · Black Excellence · Sovereign Futures**
+
+## GRACE — NAKEBUSEN within the shared identity
+
+**GRACE → NAKEBUSEN** expresses beauty, heritage, craft, dignity and grounded loc care. NAKEBUSEN is the commercial lead and the only live commercial practice.
+
+**GENJE ZA WARENA | NAKEBUSEN** is the shared identity signature, not a change to the service catalogue or transaction boundary. WARENA provides distinct technical capability; it does not replace NAKEBUSEN as the customer-facing commercial interface. GENJE is creative practice; IKAI is research.
+
+> FELOH generates. NAKEBUSEN grounds. IKAI reflects. WARENA enables. GENJE embodies.
+
+**ONLY NAKEBUSEN TRANSACTS.** An enquiry does not confirm a booking. Keep current prices, service scope, availability, payment instructions and customer terms grounded in the canonical service and operations records.
+
+Canonical identity specification: [FELOH Corpus — GRACE · GRIT · GLORY](https://github.com/donfelohke/feloh-corpus/blob/main/docs/GRACE-GRIT-GLORY-GENJE-ZA-WARENA-IDENTITY-SYSTEM-2026-11-23.md).
