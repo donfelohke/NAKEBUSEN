@@ -89,4 +89,4 @@ See the [cross-project alignment update](docs/ECOSYSTEM-ALIGNMENT-2026-11-24.md)
 
 ## Brand platform · 2026-11-24
 
-See the [NAKEBUSEN Brand Platform and Messaging](docs/BRAND-PLATFORM-AND-MESSAGING-2026-11-24.md) and the [FELOH Corpus Brand Constitution](https://github.com/donfelohke/feloh-corpus/blob/main/docs/NAKEBUSEN-WARENA-BRAND-CONSTITUTION-v1.0-2026-11-24.md). The constitution is a review-branch proposal; current service facts remain governed by the service catalogue and operations records.
+See the [NAKEBUSEN Brand Platform and Messaging](docs/BRAND-PLATFORM-AND-MESSAGING-2026-11-24.md) and the [FELOH Corpus Brand Constitution](https://github.com/donfelohke/feloh-corpus/blob/docs/ecosystem-alignment-2026-11-24/docs/NAKEBUSEN-WARENA-BRAND-CONSTITUTION-v1.0-2026-11-24.md). The constitution is a review-branch proposal; current service facts remain governed by the service catalogue and operations records.
