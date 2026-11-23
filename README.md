@@ -1,5 +1,6 @@
 # NAKEBUSEN — ROOT
 
+**WARENA POWERED**  
 ### Natural loc care · Beauty · Heritage · Craft · Eldoret, Kenya
 
 **Beautiful Roots. Sovereign Systems.**  
@@ -82,3 +83,15 @@ NAKEBUSEN began in Kanamkemer, Lodwar, Turkana County. This is the brand's histo
 **ONLY NAKEBUSEN TRANSACTS.** An enquiry does not confirm a booking. Keep current prices, service scope, availability, payment instructions and customer terms grounded in the canonical service and operations records.
 
 Canonical identity specification: [FELOH Corpus — GRACE · GRIT · GLORY](https://github.com/donfelohke/feloh-corpus/blob/main/docs/GRACE-GRIT-GLORY-GENJE-ZA-WARENA-IDENTITY-SYSTEM-2026-11-23.md).
+
+
+## Current brand platform — 2026-11-24
+
+**NAKEBUSEN · WARENA POWERED**  
+**GRACE · GRIT · GLORY | GENJE ZA WARENA**  
+**BEAUTIFUL ROOTS. SOVEREIGN SYSTEMS.**  
+**@donfelohke · #HisGenjeness**
+
+NAKEBUSEN remains the primary enterprise and customer-facing identity. WARENA POWERED is the technical-capability endorsement; it does not create a competing shop or transaction interface. GRACE · GRIT · GLORY is the shared ethos. GENJE ZA WARENA is creative expression, not a commercial subsidiary. **ONLY NAKEBUSEN TRANSACTS.**
+
+See the [NAKEBUSEN × WARENA Brand Platform](https://github.com/donfelohke/feloh-corpus/blob/main/docs/NAKEBUSEN-WARENA-BRAND-PLATFORM-2026-11-24.md) for the canonical story, purpose, vision, mission, values, positioning, About copy, founder biography, naming-evidence policy and editorial standards.
