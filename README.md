@@ -23,7 +23,7 @@ NAKEBUSEN is the ROOT domain: grounded physical practice, beauty, heritage, loc 
 | Sisterlocs Retie | **KES 1,500+** |
 | Artificial Locs Installation | **KES 3,500** |
 
-Prices are starting points. Final scope and price depend on loc condition, materials and work required and are agreed directly before work begins. Braiding is not offered in the current public catalogue. **An enquiry does not confirm a booking.** Availability, timing and scope must be agreed directly.
+Prices are starting points. Final scope and price depend on loc condition, materials and work required and are agreed directly before work begins. Braiding is not offered in the current public catalogue. **An enquiry is not a booking; an appointment is confirmed only after scope, timing and terms are agreed.** Availability, timing and scope must be agreed directly.
 
 ## NAKEBUSEN DIGITAL
 
