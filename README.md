@@ -85,6 +85,10 @@ NAKEBUSEN began in Kanamkemer, Lodwar, Turkana County. This is the brand's histo
 Canonical identity specification: [FELOH Corpus — GRACE · GRIT · GLORY](https://github.com/donfelohke/feloh-corpus/blob/main/docs/GRACE-GRIT-GLORY-GENJE-ZA-WARENA-IDENTITY-SYSTEM-2026-11-23.md).
 
 
+## Copy application — 2026-11-24
+
+See [NAKEBUSEN Copy Application](docs/COPY-APPLICATION-2026-11-24.md) for approved web copy, campaign examples, design direction, CTA hierarchy and service/payment safeguards. The service catalogue remains authoritative for public service facts and prices.
+
 ## Current brand platform — 2026-11-24
 
 **NAKEBUSEN · WARENA POWERED**  
