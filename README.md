@@ -44,7 +44,7 @@ For an agreed NAKEBUSEN service, the published M-PESA Buy Goods details are **Ti
 - [Digital service playbook](docs/digital-service-playbook.md) — discovery through handover.
 - [Privacy and operations](docs/privacy-and-operations.md).
 - [Eldoret Loc-Care Operations and Regulatory Verification (2026-11-24)](docs/ELDORET-LOC-CARE-OPERATIONS-AND-REGULATORY-VERIFICATION-2026-11-24.md) — local operations and regulatory evidence review; not a compliance certificate.
-(docs/ROOT-OPERATIONS-AND-COMPLIANCE-RESEARCH-2026-11-21.md) — research only, not a compliance certificate.
+- [Historical ROOT Operations and Compliance Research (2026-11-21)](docs/ROOT-OPERATIONS-AND-COMPLIANCE-RESEARCH-2026-11-21.md) — retained for provenance; the current service catalogue and 24 November operations review govern current public facts.
 - [Governance](GOVERNANCE.md) · [Contributing](CONTRIBUTING.md) · [Security](SECURITY.md).
 
 ## The wider practice
