@@ -112,3 +112,8 @@ See the [cross-project alignment update](docs/ECOSYSTEM-ALIGNMENT-2026-11-24.md)
 ## Brand platform · 2026-11-24
 
 See [NAKEBUSEN Brand Platform and Messaging](docs/BRAND-PLATFORM-AND-MESSAGING-2026-11-24.md) and the [FELOH Corpus canonical brand platform](https://github.com/donfelohke/feloh-corpus/blob/main/docs/NAKEBUSEN-WARENA-BRAND-PLATFORM-2026-11-24.md). Service facts remain governed by the approved service catalogue and operations records.
+
+
+## Research addition · 2026-11-24
+
+See [Eldoret Loc-Care Operations and Regulatory Verification](docs/ELDORET-LOC-CARE-OPERATIONS-AND-REGULATORY-VERIFICATION-2026-11-24.md) for the source-grounded research and proposed validation protocol. This document is research, not an implementation or compliance claim.
