@@ -78,7 +78,11 @@ NAKEBUSEN began in Kanamkemer, Lodwar, Turkana County. This is the brand's histo
 
 **GENJE ZA WARENA | NAKEBUSEN** is the shared identity signature, not a change to the service catalogue or transaction boundary. WARENA provides distinct technical capability; it does not replace NAKEBUSEN as the customer-facing commercial interface. GENJE is creative practice; IKAI is research.
 
-> FELOH generates. NAKEBUSEN grounds. IKAI reflects. WARENA enables. GENJE embodies.
+**FELOH** — Authorship · Intellectual work · Creative direction  
+**NAKEBUSEN** — Beauty · Heritage · Craft · Enterprise  
+**IKAI** — Reflective computing · Perception · Memory · Human experience  
+**WARENA** — Libre technology · Infrastructure · Systems engineering · Digital sovereignty  
+**GENJE** — Music · Movement · Performance · Creative expression
 
 **ONLY NAKEBUSEN TRANSACTS.** An enquiry is not a booking; appointment confirmation follows agreement on scope, timing and terms. Keep current prices, service scope, availability, payment instructions and customer terms grounded in the canonical service and operations records.
 
