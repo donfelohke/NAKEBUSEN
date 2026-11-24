@@ -43,7 +43,8 @@ For an agreed NAKEBUSEN service, the published M-PESA Buy Goods details are **Ti
 - [Service catalogue](docs/service-catalogue.md) — public offer and price baseline.
 - [Digital service playbook](docs/digital-service-playbook.md) — discovery through handover.
 - [Privacy and operations](docs/privacy-and-operations.md).
-- [ROOT operations, tax and data-protection research](docs/ROOT-OPERATIONS-AND-COMPLIANCE-RESEARCH-2026-11-21.md) — research only, not a compliance certificate.
+- [Eldoret Loc-Care Operations and Regulatory Verification (2026-11-24)](docs/ELDORET-LOC-CARE-OPERATIONS-AND-REGULATORY-VERIFICATION-2026-11-24.md) — local operations and regulatory evidence review; not a compliance certificate.
+(docs/ROOT-OPERATIONS-AND-COMPLIANCE-RESEARCH-2026-11-21.md) — research only, not a compliance certificate.
 - [Governance](GOVERNANCE.md) · [Contributing](CONTRIBUTING.md) · [Security](SECURITY.md).
 
 ## The wider practice
