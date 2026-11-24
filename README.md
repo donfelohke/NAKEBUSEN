@@ -18,13 +18,13 @@ NAKEBUSEN is the ROOT domain: grounded physical practice, beauty, heritage, loc 
 
 ## Loc-care services
 
-| Service | Starting price |
+| Service | Approved price |
 |---|---:|
-| Retouch & Styling | **KES 700+** |
-| Sisterlocs Retie | **KES 1,500+** |
+| Retouch & Styling | **KES 700** |
+| Sisterlocs Retie | **KES 1,500** |
 | Artificial Locs Installation | **KES 3,500+** |
 
-Prices are starting points. Final scope and price depend on loc condition, materials and work required and are agreed directly before work begins. Braiding is not offered in the current public catalogue. **An enquiry is not a booking; an appointment is confirmed only after scope, timing and terms are agreed.** Availability, timing and scope must be agreed directly.
+These are the approved public prices. Final scope and price depend on loc condition, materials and work required and are agreed directly before work begins. Braiding is not offered in the current public catalogue. **An enquiry is not a booking; an appointment is confirmed only after scope, timing and terms are agreed.** Availability, timing and scope must be agreed directly.
 
 ## NAKEBUSEN DIGITAL
 
@@ -84,6 +84,10 @@ NAKEBUSEN began in Kanamkemer, Lodwar, Turkana County. This is the brand's histo
 
 Canonical identity specification: [FELOH Corpus — GRACE · GRIT · GLORY](https://github.com/donfelohke/feloh-corpus/blob/main/docs/GRACE-GRIT-GLORY-GENJE-ZA-WARENA-IDENTITY-SYSTEM-2026-11-23.md).
 
+
+## Copy application — 2026-11-24
+
+See [NAKEBUSEN Copy Application](docs/COPY-APPLICATION-2026-11-24.md) for approved web copy, campaign examples, design direction, CTA hierarchy and service/payment safeguards. The service catalogue remains authoritative for public service facts and prices.
 
 ## Current brand platform — 2026-11-24
 
