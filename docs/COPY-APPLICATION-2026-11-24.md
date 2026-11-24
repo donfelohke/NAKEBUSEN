@@ -25,13 +25,13 @@ NAKEBUSEN is the primary enterprise and the only commercial transaction interfac
 
 | Service | Approved price |
 |---|---:|
-| Retouch & Styling | KES 700+ |
-| Sisterlocs Retie | KES 1,500+ |
+| Retouch & Styling | KES 700 |
+| Sisterlocs Retie | KES 1,500 |
 | Artificial Locs Installation | KES 3,500 |
 
 The third price is exact: do not add a plus sign. Do not introduce braiding, shaving, unapproved nail services or unconfirmed service inclusions.
 
-**Required disclosure:** Prices are indicative where marked as starting prices. Final scope and price depend on loc condition, materials and work required; the final amount is agreed before work begins. Availability and final terms must be agreed directly. An enquiry does not confirm a booking.
+**Required disclosure:** These are the approved public prices. Final scope and any additional costs are agreed directly before work begins. Final scope and price depend on loc condition, materials and work required; the final amount is agreed before work begins. Availability and final terms must be agreed directly. An enquiry does not confirm a booking.
 
 ## Campaign copy bank
 
