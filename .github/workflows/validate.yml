@@ -23,7 +23,16 @@ jobs:
             test -s "$file" || { echo "Missing or empty required file: $file"; exit 1; }
           done
           grep -q "ONLY NAKEBUSEN TRANSACTS" README.md || { echo "README missing the canonical transaction boundary"; exit 1; }
-          grep -Fq "**KES 3,500**" docs/service-catalogue.md || { echo "Catalogue missing the exact Artificial Locs Installation price"; exit 1; }
+          for amount in "**KES 700**" "**KES 1,500**" "**KES 3,500**"; do
+            grep -Fq "$amount" docs/service-catalogue.md || { echo "Catalogue missing approved fixed price: $amount"; exit 1; }
+          done
+          if grep -Eq "KES (700|1,500|3,500)\\+" docs/service-catalogue.md; then
+            echo "Approved public prices are fixed amounts; plus signs are prohibited."
+            exit 1
+          fi
+          grep -q "Retouch & Styling" docs/service-catalogue.md
+          grep -q "Sisterlocs Retie" docs/service-catalogue.md
+          grep -q "Artificial Locs Installation" docs/service-catalogue.md
           if grep -Fq "KES 3,500+" docs/service-catalogue.md; then
             echo "Artificial Locs Installation must not carry a plus sign."
             exit 1
