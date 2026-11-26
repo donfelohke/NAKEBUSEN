@@ -123,3 +123,8 @@ See [Eldoret Loc-Care Operations and Regulatory Verification](docs/ELDORET-LOC-C
 ## Shared identity alignment · 26 November 2026
 
 **GRACE → NAKEBUSEN** is the current pillar mapping. FELOH remains the human author; **GRIT → WARENA** and **GLORY → GENJE / GENJENESS** describe distinct practices. NAKEBUSEN remains the primary enterprise and sole transaction interface. See the [current shared identity clarification](https://github.com/donfelohke/feloh-corpus/blob/main/docs/IDENTITY-CANONICAL-CLARIFICATION-2026-11-26.md). **ONLY NAKEBUSEN TRANSACTS.**
+
+
+## Documentation index
+
+See [docs/README.md](docs/README.md) for the current repository documentation map and source-of-record links.
