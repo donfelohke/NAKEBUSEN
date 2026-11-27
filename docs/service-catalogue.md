@@ -12,13 +12,13 @@ Authority: current owner-approved public service baseline. The three loc-care en
 
 | Service | Approved public price | Publication state |
 |---|---:|---|
-| Retouch & Styling | **KES 700** | APPROVED PRICE |
-| Sisterlocs Retie | **KES 1,500** | APPROVED PRICE — retie, not full install |
-| Artificial Locs Installation | **KES 3,500** | APPROVED PRICE — no plus sign |
+| Retouch & Styling | **KES 700+** | APPROVED STARTING PRICE |
+| Sisterlocs Retie | **KES 1,500+** | APPROVED STARTING PRICE — retie, not full install |
+| Artificial Locs Installation | **KES 3,500** | APPROVED FIXED PRICE — no plus sign |
 | Gel nails | KES 400 | NEEDS CONFIRMATION before website |
 | Manicure & pedicure | KES 500–700 | NEEDS CONFIRMATION before website |
 
-The three approved loc-care prices are the current public baseline. Artificial Locs Installation is KES 3,500, without a plus sign. Do not add a plus sign to that price. Market context is not NAKEBUSEN pricing.
+Retouch & Styling and Sisterlocs Retie are starting prices; final amounts depend on agreed scope and any additional work. Artificial Locs Installation is a fixed published price of KES 3,500. Do not append a plus sign to Artificial Locs Installation. Market context is not NAKEBUSEN pricing.
 
 ## DIGITAL candidate service families
 
@@ -26,7 +26,7 @@ See the [DIGITAL service playbook](digital-service-playbook.md). Candidate famil
 
 ## Mandatory public disclaimer
 
-> Prices are shown in KES. Retouch & Styling is KES 700 and Sisterlocs Retie is KES 1,500; Artificial Locs Installation is KES 3,500. Final scope and any additional costs are confirmed directly before work. Availability and final terms must be agreed directly. An enquiry does not confirm a booking.
+> Prices are shown in KES. Retouch & Styling starts at KES 700+ and Sisterlocs Retie starts at KES 1,500+; Artificial Locs Installation is KES 3,500. Final scope and any additional costs are confirmed directly before work. Availability and final terms must be agreed directly. An enquiry does not confirm a booking.
 
 ## Modes and contact
 
