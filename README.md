@@ -70,3 +70,7 @@ NAKEBUSEN began in Kanamkemer, Lodwar, Turkana County. This is the enterprise's 
 **GRACE → NAKEBUSEN**  
 **NAKEBUSEN · WARENA · DON FELOH**  
 **HERITAGE · BLACK EXCELLENCE · SOVEREIGN FUTURES**
+
+## Canonical alignment · 27 November 2026
+
+See [Canonical identity alignment](docs/FELOH-CANONICAL-ALIGNMENT-2026-11-27.md) for the dated cross-project definitions, evidence boundaries and repository-specific responsibilities.
