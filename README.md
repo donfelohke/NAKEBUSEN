@@ -20,7 +20,7 @@ NAKEBUSEN is the ROOT practice: beauty, heritage, natural loc care, craft, digni
 | Sisterlocs Retie | **KES 1,500** |
 | Artificial Locs Installation | **KES 3,500** |
 
-These are the approved public prices, not starting-price estimates. Any additional work, materials or scope changes must be discussed and agreed before work begins. Braiding and shaving are not offered. **An enquiry does not confirm a booking.** Availability, appointment timing, scope and final terms are agreed directly.
+These are the approved public prices, not starting-price estimates. Any additional work, materials or scope changes must be discussed and agreed before work begins. Braiding and shaving are not offered. **An enquiry is not a booking.** Availability, appointment timing, scope and final terms are agreed directly. Availability, appointment timing, scope and final terms are agreed directly.
 
 The [Service Catalogue](docs/service-catalogue.md) is the authority for service names, approved prices, publication status and customer-facing terms. Candidate nail services and DIGITAL service families are not automatically live offers.
 
@@ -34,7 +34,7 @@ The [Service Catalogue](docs/service-catalogue.md) is the authority for service 
 
 For an agreed service, the published M-PESA Buy Goods details are **Till 3511456 · Merchant: FELIX LWOVA**. Confirm the service and total amount directly with NAKEBUSEN, then verify the merchant name and amount displayed by M-PESA before entering a PIN. Never share a PIN or one-time code. An enquiry is not a payment request. No API, STK push, automated verification, checkout or payment-success state is implied.
 
-## WARENA-enabled technical capability
+## NAKEBUSEN DIGITAL
 
 *Powered by WARENA · Freedom Is a System.*
 
