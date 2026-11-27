@@ -24,6 +24,11 @@ This index routes contributors and operators to the current business, service, c
 - [Similar projects research](similar-projects-research.md).
 - [Knowledge base index](knowledge-base-index.md).
 
+## Current canonical alignment · 27 November 2026
+- [NAKEBUSEN canonical alignment](FELOH-CANONICAL-ALIGNMENT-2026-11-27.md) — GRACE / ROOT, current Eldoret service context, sole transaction boundary and relationship to WARENA, IKAI and GENJE.
+- [FELOH Corpus canonical synthesis](https://github.com/donfelohke/feloh-corpus/blob/main/docs/FELOH-CANONICAL-RESEARCH-SYNTHESIS-2026-11-27.md) — shared identity and evidence authority.
+- [Cooperative, federated computing and embodied interaction](https://github.com/donfelohke/feloh-corpus/blob/main/docs/research/COOPERATIVE-FEDERATED-COMPUTING-AND-EMBODIED-INTERACTION-SYNTHESIS-2026-11-27.md) — wider research context, not an NAKEBUSEN service specification.
+
 ## Governance and maintenance
 - [Ecosystem alignment](ECOSYSTEM-ALIGNMENT-2026-11-24.md).
 - [Repository upgrade plan](REPOSITORY-UPGRADE-PLAN-2026-11-21.md).
