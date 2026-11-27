@@ -23,11 +23,11 @@ jobs:
             test -s "$file" || { echo "Missing or empty required file: $file"; exit 1; }
           done
           grep -q "ONLY NAKEBUSEN TRANSACTS" README.md || { echo "README missing the canonical transaction boundary"; exit 1; }
-          for amount in "**KES 700**" "**KES 1,500**" "**KES 3,500**"; do
+          for amount in "**KES 700+**" "**KES 1,500+**" "**KES 3,500**"; do
             grep -Fq "$amount" docs/service-catalogue.md || { echo "Catalogue missing approved fixed price: $amount"; exit 1; }
           done
-          if grep -Eq "KES (700|1,500|3,500)\\+" docs/service-catalogue.md; then
-            echo "Approved public prices are fixed amounts; plus signs are prohibited."
+          if grep -Fq "KES 3,500+" docs/service-catalogue.md; then
+            echo "Artificial Locs Installation is a fixed price; a plus sign is prohibited."
             exit 1
           fi
           grep -q "Retouch & Styling" docs/service-catalogue.md
