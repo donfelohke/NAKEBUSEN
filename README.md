@@ -16,11 +16,11 @@ NAKEBUSEN is the ROOT practice: beauty, heritage, natural loc care, craft, digni
 
 | Service | Published price |
 |---|---:|
-| Retouch & Styling | **KES 700** |
-| Sisterlocs Retie | **KES 1,500** |
+| Retouch & Styling | **KES 700+** |
+| Sisterlocs Retie | **KES 1,500+** |
 | Artificial Locs Installation | **KES 3,500** |
 
-These are the approved public prices, not starting-price estimates. Any additional work, materials or scope changes must be discussed and agreed before work begins. Braiding and shaving are not offered. **An enquiry is not a booking.** Availability, appointment timing, scope and final terms are agreed directly.
+Retouch & Styling and Sisterlocs Retie are published starting prices. Artificial Locs Installation is a fixed published price. Final scope and any additional costs are agreed directly before work begins. Any additional work, materials or scope changes must be discussed and agreed before work begins. Braiding and shaving are not offered. **An enquiry is not a booking.** Availability, appointment timing, scope and final terms are agreed directly.
 
 The [Service Catalogue](docs/service-catalogue.md) is the authority for service names, approved prices, publication status and customer-facing terms. Candidate nail services and DIGITAL service families are not automatically live offers.
 
