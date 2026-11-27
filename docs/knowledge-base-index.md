@@ -48,7 +48,7 @@ This index routes knowledge to the right source. It does not certify that every 
 
 ## Next validation work
 
-- Reconfirm LOCS service names, prices, inclusions and campaign location with the owner whenever a new campaign or service change is proposed; current approved Eldoret starting-price baseline is recorded in the catalogue.
+- Reconfirm LOCS service names, prices, inclusions and campaign location with the owner whenever a new campaign or service change is proposed; current approved Eldoret published-price baseline is recorded in the catalogue.
 - Validate any hygiene, product, and aftercare instructions against reputable professional guidance and the actual materials used.
 - Approve the DIGITAL service catalogue, pricing approach, support terms and delivery checklist.
 - Add technical runbooks only after testing the described steps on the named environment.
