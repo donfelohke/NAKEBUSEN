@@ -76,3 +76,4 @@ Before publishing or changing a service entry, verify:
 | 2026-10-26 | Added knowledge-base links and separate DIGITAL candidate-service status | Documentation architecture update; no price or service availability newly verified |
 | 2026-10-31 | Recorded owner-approved Eldoret campaign prices for the three loc services | Current campaign baseline; final scope remains directly agreed |
 | 2026-11-20 | Reconciled the approved KES 3,500 Artificial Locs Installation price, Eldoret service location, published M-PESA details and no-unverified-home-visit boundary | Current public website and operator-approved payment record |
+| 2026-11-27 | Clarified Retouch & Styling from KES 700+ and Sisterlocs Retie from KES 1,500+ as starting prices; Artificial Locs Installation remains fixed at KES 3,500 | Current owner-approved public pricing direction; final scope and additional work agreed directly |
