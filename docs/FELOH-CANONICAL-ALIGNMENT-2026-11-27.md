@@ -18,12 +18,12 @@ Locs are the specialist beauty-industry focus because they unite natural-hair ca
 
 **#BLACKPEARL** is a subordinate editorial/campaign identity for NAKEBUSEN LOCS—not a separate business, checkout or universal beauty ideal. It should celebrate varied Black beauty and loc expression without prescribing one appearance.
 
-Approved public loc-care prices remain fixed and controlled by [service-catalogue.md](service-catalogue.md):
-- Retouch & Styling — KES 700
-- Sisterlocs Retie — KES 1,500
+Approved public loc-care pricing is controlled by [service-catalogue.md](service-catalogue.md):
+- Retouch & Styling — starts at KES 700+
+- Sisterlocs Retie — starts at KES 1,500+
 - Artificial Locs Installation — KES 3,500
 
-Do not add “+” or “from”. Do not advertise braiding or shaving. Do not invent availability, discounts, testimonials or guarantees. An enquiry is not a booking.
+Use starting-price notation for Retouch & Styling and Sisterlocs Retie; Artificial Locs Installation remains fixed at KES 3,500. Do not advertise braiding or shaving. Do not invent availability, discounts, testimonials or guarantees. An enquiry is not a booking.
 
 ## NAKEBUSEN DIGITAL · POWERED BY WARENA
 
